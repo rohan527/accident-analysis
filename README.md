@@ -20,8 +20,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://icons8.com/icon/3VheoNbKrTPk/autonomous-car">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a 
+    <img src="images/auto.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">CA ATV Report Analysis</h3>
