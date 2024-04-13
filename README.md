@@ -151,7 +151,7 @@ Feel free to contact any of the students mentioned below in the acknowledgements
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-The project is being done under professor Leilani Gilpin as a part of the Artificial Intelligence Explainability Accountability (AIEA) Lab at University of California, Santa Cruz. 
+The project is being done under professor Leilani Gilpin (lgilpin@ucsc.edu) as a part of the Artificial Intelligence Explainability Accountability (AIEA) Lab at University of California, Santa Cruz. 
 
 Following are the students who have contributed to the project:
 
