@@ -107,11 +107,11 @@ The installation guide for most of the libaries can be found on their websites. 
 
 - [x] Collect DMV reports
 - [x] Create dataset by reading the files in PDF/scanned format
-- [o] Analyse the data
-    - [ ] Possible Tangent: Hazard indicator based on data
-    - [ ] Possible Tangent: Visualing the accidents using openai 
-    - [ ] Expanding to different states
-- [ ] Research Paper 
+- [o] Analyse the data 
+    - [x] Possible Tangent: Hazard indicator based on data (Not pursuing)
+    - [x] Possible Tangent: Visualing the accidents using openai (Not pursuing)
+    - [o] Expanding to different states (using NHTSA data to create a merged dataset) 
+- [o] Research Paper : https://www.overleaf.com/read/nnzshqsjchjv#5d237a
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
