@@ -1,0 +1,6 @@
+beautifulsoup4
+matplotlib
+pandas
+seaborn
+pypdf
+ocrmypdf
