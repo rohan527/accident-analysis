@@ -1,0 +1,1064 @@
+Year,Month,Make,Model,City,State,Hour,Rear Damage,Front Damage,Right Side Damage,Left Side Damage,Inside Damage,Lighting,Weather,Roadway Surface,Movement Preceding Collision
+2023,8,Jaguar,I-Pace,Santa Monica,CA ,16.0,1,0,0,1,0,Daylight,Weather - Clear,Dry,"Other, see Narrative"
+2023,8,Jaguar,I-Pace,San Francisco,CA ,21.0,0,1,0,1,0,Daylight,Weather - Clear,Dry,Stopped
+2023,8,Jaguar,I-Pace,San Francisco,CA ,17.0,0,0,0,1,0,Daylight,Weather - Clear,Dry,Stopped
+2023,8,Jaguar,I-Pace,San Francisco,CA ,16.0,1,0,0,0,0,Daylight,Weather - Clear,Dry,Stopped
+2023,8,Jaguar,I-Pace,San Francisco,CA ,13.0,1,0,0,1,0,Daylight,Weather - Clear,Dry,Proceeding Straight
+2023,8,Jaguar,I-Pace,San Francisco,CA ,18.0,0,0,0,0,0,Daylight,Weather - Clear,Dry,Stopped
+2023,8,Jaguar,I-Pace,San Francisco,CA ,21.0,0,1,1,0,0,Dark - Lighted,Weather - Clear,Dry,Proceeding Straight
+2023,8,Jaguar,I-Pace,Los Angeles,CA ,19.0,0,1,0,0,0,Dawn / Dusk,Weather - Clear,Dry,Parking Maneuver
+2023,8,Jaguar,I-Pace,Phoenix,AZ ,19.0,0,1,1,0,0,Dawn / Dusk,Weather - Clear,Dry,Proceeding Straight
+2023,8,Jaguar,I-Pace,Mesa,AZ ,15.0,1,0,0,0,0,Daylight,Weather - Clear,Dry,Parked
+2023,8,Jaguar,I-Pace,San Francisco,CA ,22.0,1,0,0,0,0,Dark - Lighted,Weather - Clear,Dry,Stopped
+2023,8,Jaguar,I-Pace,Phoenix,AZ ,19.0,0,1,0,0,0,Daylight,Weather - Clear,Dry,Parked
+2023,8,Cruise,AV,San Francisco,CA ,4.0,0,1,0,1,0,Dark - Lighted,Weather - Cloudy,Dry,Proceeding Straight
+2023,8,Cruise,AV,San Francisco,CA ,8.0,0,1,1,0,0,Daylight,Weather - Cloudy,Dry,Stopped
+2023,8,Cruise,AV,San Francisco,CA ,16.0,1,0,0,1,0,Daylight,Weather - Clear,Dry,Proceeding Straight
+2023,8,Cruise,AV,San Francisco,CA ,22.0,0,1,1,0,0,Dark - Lighted,Weather - Clear,Dry,Proceeding Straight
+2023,8,Cruise,AV,San Francisco,CA ,16.0,1,0,0,1,0,Daylight,Weather - Clear,Dry,Stopped
+2023,8,Cruise,AV,San Francisco,CA ,11.0,1,0,0,0,0,Daylight,Weather - Clear,Dry,Proceeding Straight
+2023,8,Cruise,AV,Austin,TX ,0.0,1,0,0,1,0,Dark - Not Lighted,Weather - Clear,Dry,Stopped
+2023,8,Cruise,AV,San Francisco,CA ,10.0,0,1,1,0,0,Daylight,Weather - Clear,Dry,Stopped
+2023,8,Cruise,AV,San Francisco,CA ,23.0,1,0,0,1,0,Dark - Lighted,Weather - Clear,Dry,Stopped
+2023,8,Cruise,AV,San Francisco,CA ,22.0,0,1,1,0,0,Dark - Lighted,Weather - Cloudy,Dry,Stopped
+2023,8,Cruise,AV,Austin,TX ,23.0,0,0,1,0,0,Dark - Lighted,Weather - Clear,Dry,Proceeding Straight
+2023,8,Cruise,AV,San Francisco,CA ,9.0,1,0,0,1,0,Daylight,Weather - Clear,Dry,Proceeding Straight
+2023,8,Cruise,AV,San Francisco,CA ,13.0,0,1,1,0,0,Daylight,Weather - Clear,Dry,Proceeding Straight
+2023,8,Cruise,AV,San Francisco,CA ,16.0,1,0,0,1,0,Daylight,Weather - Clear,Dry,Making Right Turn
+2023,8,Cruise,AV,San Francisco,CA ,14.0,1,0,0,1,0,Daylight,Weather - Clear,Dry,Stopped
+2023,8,Cruise,AV,San Francisco,CA ,20.0,0,0,0,1,0,Dark - Lighted,Weather - Clear,Dry,Proceeding Straight
+2023,8,Mercedes-Benz,S 580 4Matic,Los Angeles,CA ,13.0,1,0,0,0,0,Daylight,Weather - Cloudy,Dry,Proceeding Straight
+2023,9,Cruise,AV,Austin,TX ,2.0,0,0,0,1,0,Dark - Lighted,Weather - Clear,Dry,Proceeding Straight
+2023,8,Cruise,AV,San Francisco,CA ,0.0,0,0,0,1,0,Dark - Lighted,Weather - Cloudy,Dry,Proceeding Straight
+2023,8,Cruise,AV,San Francisco,CA ,0.0,1,0,0,1,0,Dark - Lighted,Weather - Clear,Dry,Stopped
+2023,8,Cruise,AV,San Francisco,CA ,22.0,1,0,1,0,0,Dark - Lighted,Weather - Clear,Dry,Proceeding Straight
+2023,8,Cruise,AV,San Francisco,CA ,1.0,0,1,1,0,0,Dark - Lighted,Weather - Clear,Dry,Proceeding Straight
+2023,9,Cruise,AV,Houston,TX ,21.0,1,0,1,1,0,Dark - Lighted,Weather - Clear,Dry,Proceeding Straight
+2023,8,Cruise,AV,San Francisco,CA ,4.0,0,1,0,1,0,Dark - Lighted,Weather - Cloudy,Dry,Proceeding Straight
+2023,8,Cruise,AV,San Francisco,CA ,16.0,1,0,0,1,0,Daylight,Weather - Clear,Dry,Proceeding Straight
+2023,8,Cruise,AV,San Francisco,CA ,22.0,0,1,1,0,0,Dark - Lighted,Weather - Clear,Dry,Proceeding Straight
+2023,8,Cruise,AV,San Francisco,CA ,11.0,1,0,0,0,0,Daylight,Weather - Clear,Dry,Proceeding Straight
+2023,8,Cruise,AV,San Francisco,CA ,16.0,1,0,0,1,0,Daylight,Weather - Clear,Dry,Stopped
+2023,8,Cruise,AV,San Francisco,CA ,8.0,0,1,1,0,0,Daylight,Weather - Cloudy,Dry,Stopped
+2023,8,Cruise,AV,San Francisco,CA ,10.0,0,1,1,0,0,Daylight,Weather - Clear,Dry,Stopped
+2023,8,Cruise,AV,San Francisco,CA ,22.0,0,1,1,0,0,Dark - Lighted,Weather - Cloudy,Dry,Stopped
+2023,8,Cruise,AV,Austin,TX ,0.0,1,0,0,1,0,Dark - Not Lighted,Weather - Clear,Dry,Stopped
+2023,8,Cruise,AV,Austin,TX ,23.0,0,0,1,0,0,Dark - Lighted,Weather - Clear,Dry,Proceeding Straight
+2023,8,Cruise,AV,San Francisco,CA ,23.0,1,0,0,1,0,Dark - Lighted,Weather - Clear,Dry,Stopped
+2023,8,Cruise,AV,San Francisco,CA ,14.0,1,0,0,1,0,Daylight,Weather - Clear,Dry,Stopped
+2023,8,Cruise,AV,San Francisco,CA ,16.0,1,0,0,1,0,Daylight,Weather - Clear,Dry,Making Right Turn
+2023,8,Cruise,AV,San Francisco,CA ,13.0,0,1,1,0,0,Daylight,Weather - Clear,Dry,Proceeding Straight
+2023,8,Cruise,AV,San Francisco,CA ,20.0,0,0,0,1,0,Dark - Lighted,Weather - Clear,Dry,Proceeding Straight
+2023,8,Cruise,AV,San Francisco,CA ,9.0,1,0,0,1,0,Daylight,Weather - Clear,Dry,Proceeding Straight
+2023,9,Cruise,AV,Austin,TX ,2.0,0,0,0,1,0,Dark - Lighted,Weather - Clear,Dry,Proceeding Straight
+2023,8,Cruise,AV,San Francisco,CA ,0.0,0,0,0,1,0,Dark - Lighted,Weather - Cloudy,Dry,Proceeding Straight
+2023,8,Cruise,AV,San Francisco,CA ,0.0,1,0,0,1,0,Dark - Lighted,Weather - Clear,Dry,Stopped
+2023,8,Cruise,AV,San Francisco,CA ,22.0,1,0,1,0,0,Dark - Lighted,Weather - Clear,Dry,Proceeding Straight
+2023,8,Toyota,Sienna,Arlington,TX ,10.0,0,0,1,0,0,Daylight,Weather - Clear,Dry,Proceeding Straight
+2023,9,Cruise,AV,Houston,TX ,21.0,1,0,1,1,0,Dark - Lighted,Weather - Clear,Dry,Proceeding Straight
+2023,8,Cruise,AV,San Francisco,CA ,1.0,0,1,1,0,0,Dark - Lighted,Weather - Clear,Dry,Proceeding Straight
+2023,8,Cruise,AV,Austin,TX ,0.0,0,1,0,1,0,Dark - Lighted,Weather - Clear,Dry,Proceeding Straight
+2023,8,Jaguar,I-Pace,Phoenix,AZ ,20.0,1,0,0,0,0,Dark - Lighted,Weather - Clear,Dry,Proceeding Straight
+2023,8,Cruise,AV,Austin,TX ,0.0,0,1,0,1,0,Dark - Lighted,Weather - Clear,Dry,Proceeding Straight
+2023,8,Cruise,AV,San Francisco,CA ,1.0,0,1,0,1,0,Dark - Lighted,Weather - Clear,Dry,Stopped
+2023,8,Cruise,AV,San Francisco,CA ,21.0,1,0,1,1,0,Dark - Lighted,Weather - Clear,Dry,Proceeding Straight
+2023,8,Cruise,Origin,Austin,TX ,0.0,0,1,0,1,0,Dark - Lighted,Weather - Clear,Dry,Lane / Road Departure
+2023,8,Cruise,AV,San Francisco,CA ,1.0,0,1,0,1,0,Dark - Lighted,Weather - Clear,Dry,Stopped
+2023,8,Cruise,AV,San Francisco,CA ,21.0,1,0,1,1,0,Dark - Lighted,Weather - Clear,Dry,Proceeding Straight
+2023,8,Cruise,Origin,Austin,TX ,0.0,0,1,0,1,0,Dark - Lighted,Weather - Clear,Dry,Lane / Road Departure
+2023,8,Jaguar,I-Pace,Tempe,AZ ,21.0,1,0,1,1,0,Dark - Lighted,Weather - Clear,Dry,Stopped
+2023,8,Cruise,AV,San Frabcisco,CA ,8.0,1,0,1,0,0,Daylight,Weather - Clear,Dry,Backing
+2023,8,Cruise,AV,San Francisco,CA ,8.0,1,0,1,0,0,Daylight,Weather - Clear,Dry,Backing
+2023,8,Navya,ARMA Autonom DL,Orlando,FL ,12.0,0,1,0,1,0,Daylight,Weather - Clear,Dry,Proceeding Straight
+2023,8,Cruise,AV,San Francisco,CA ,0.0,1,0,0,1,0,Dark - Lighted,Weather - Clear,Dry,Stopped
+2023,8,Cruise,AV,San Francisco,CA ,0.0,1,0,0,1,0,Dark - Lighted,Weather - Clear,Dry,Stopped
+2023,8,Toyota,Camry,Sunol,CA ,14.0,1,0,0,0,0,Daylight,Weather - Clear,Dry,Stopped
+2023,8,Jaguar,I-Pace,Phoenix,AZ ,18.0,0,0,0,1,0,Daylight,Weather - Clear,Dry,Changing Lanes
+2023,8,Cruise,AV,San Francisco,CA ,7.0,0,1,0,1,0,Daylight,Weather - Cloudy,Dry,Proceeding Straight
+2023,8,Cruise,AV,San Francisco,CA ,7.0,0,1,0,1,0,Daylight,Weather - Cloudy,Dry,Proceeding Straight
+2023,7,Jaguar,I-Pace,San Francisco,CA ,13.0,0,1,1,0,0,Daylight,Weather - Cloudy,Dry,Proceeding Straight
+2023,7,Jaguar,I-Pace,San Francisco,CA ,10.0,0,1,0,1,0,Daylight,Weather - Clear,Dry,Making Right Turn
+2023,7,Jaguar,I-Pace,Santa Monica,CA ,14.0,0,1,1,0,0,Daylight,Weather - Clear,Dry,Stopped
+2023,7,Jaguar,I-Pace,Santa Monica,CA ,14.0,0,1,1,0,0,Daylight,Weather - Clear,Dry,Stopped
+2023,7,Jaguar,I-Pace,San Francisco,CA ,11.0,0,1,1,0,0,Daylight,Weather - Clear,Dry,Backing
+2023,7,Jaguar,I-Pace,San Francisco,CA ,9.0,1,0,0,1,0,Daylight,Weather - Clear,Dry,Stopped
+2023,7,Jaguar,I-Pace,Phoenix,AZ ,9.0,1,0,0,1,0,Daylight,Weather - Cloudy,Dry,Parked
+2023,7,Jaguar,I-Pace,San Francisco,CA ,10.0,0,1,0,1,0,Daylight,Weather - Clear,Dry,Making Right Turn
+2023,7,Jaguar,I-Pace,San Francisco,CA ,13.0,0,1,1,0,0,Daylight,Weather - Cloudy,Dry,Proceeding Straight
+2023,7,Peterbilt,579m,BUFFALO,TX ,9.0,0,1,0,0,0,Daylight,Weather - Clear,Dry,Proceeding Straight
+2023,8,Nissan,LEAF,San Francisco,CA ,13.0,0,1,0,0,0,Daylight,Weather - Clear,Dry,Parked
+2023,7,Cruise,AV,San Francisco,CA ,22.0,1,0,1,0,0,Dark - Lighted,Weather - Clear,Dry,Proceeding Straight
+2023,7,Cruise,AV,Austin,TX ,2.0,0,0,1,0,0,Dark - Lighted,Weather - Clear,Dry,Stopped
+2023,7,Cruise,AV,San Francisco,CA ,16.0,1,0,0,1,0,Daylight,Weather - Clear,Dry,Stopped
+2023,7,Cruise,AV,San Francisco,CA ,10.0,1,0,1,0,0,Daylight,Weather - Clear,Dry,Backing
+2023,7,Cruise,AV,San Francisco,CA ,0.0,0,0,0,1,0,Dark - Lighted,Weather - Clear,Dry,Proceeding Straight
+2023,7,Cruise,AV,San Francisco,CA ,22.0,0,0,1,0,0,Dark - Lighted,Weather - Clear,Dry,Proceeding Straight
+2023,7,Cruise,AV,San Francisco,CA ,20.0,1,0,0,1,0,Dark - Not Lighted,Weather - Clear,Dry,Stopped
+2023,7,Cruise,AV,San Francisco,CA ,1.0,0,1,1,0,0,Dark - Lighted,Weather - Clear,Dry,Proceeding Straight
+2023,8,Cruise,AV,San Francisco,CA ,11.0,0,0,1,0,0,Daylight,Weather - Clear,Dry,Stopped
+2023,8,Cruise,AV,San Francisco,CA ,11.0,0,1,1,0,0,Daylight,Weather - Clear,Dry,Stopped
+2023,8,Cruise,AV,San Francisco,CA ,11.0,0,1,1,0,0,Daylight,Weather - Clear,Dry,Stopped
+2023,8,Cruise,AV,San Francisco,CA ,11.0,0,0,1,0,0,Daylight,Weather - Clear,Dry,Stopped
+2023,7,Cruise,AV,San Francisco,CA ,22.0,1,0,1,0,0,Dark - Lighted,Weather - Clear,Dry,Proceeding Straight
+2023,7,Cruise,AV,Austin,TX ,2.0,0,0,1,0,0,Dark - Lighted,Weather - Clear,Dry,Stopped
+2023,7,Cruise,AV,San Francisco,CA ,16.0,1,0,0,1,0,Daylight,Weather - Clear,Dry,Stopped
+2023,7,Cruise,AV,San Francisco,CA ,10.0,1,0,1,0,0,Daylight,Weather - Clear,Dry,Backing
+2023,7,Cruise,AV,San Francisco,CA ,0.0,0,0,0,1,0,Dark - Lighted,Weather - Clear,Dry,Proceeding Straight
+2023,7,Cruise,AV,San Francisco,CA ,22.0,0,0,1,0,0,Dark - Lighted,Weather - Clear,Dry,Proceeding Straight
+2023,7,Cruise,AV,San Francisco,CA ,20.0,1,0,0,1,0,Dark - Not Lighted,Weather - Clear,Dry,Stopped
+2023,7,Cruise,AV,San Francisco,CA ,1.0,0,1,1,0,0,Dark - Lighted,Weather - Clear,Dry,Proceeding Straight
+2022,12,International,LT625,Natural Bridge,VA ,8.0,1,1,1,1,0,Daylight,Weather - Clear,Dry,Proceeding Straight
+2023,8,Cruise,AV,San Francisco,CA ,9.0,1,0,0,0,0,Daylight,Weather - Cloudy,Dry,"Other, see Narrative"
+2023,7,Toyota,Sienna,Grand Rapids,MN ,17.0,1,0,0,0,0,Daylight,Weather - Clear,Dry,Stopped
+2023,8,Cruise,AV,San Francisco,CA ,9.0,1,0,0,0,0,Daylight,Weather - Cloudy,Dry,"Other, see Narrative"
+2023,7,Cruise,AV,San Francisco,CA ,23.0,1,0,1,0,0,Dark - Lighted,Weather - Clear,Dry,"Other, see Narrative"
+2023,7,Cruise,AV,San Francisco,CA ,6.0,0,1,1,0,0,Daylight,Weather - Clear,Dry,Stopped
+2023,7,Cruise,AV,San Francisco,CA ,23.0,1,0,1,0,0,Dark - Lighted,Weather - Clear,Dry,"Other, see Narrative"
+2023,7,Cruise,AV,San Francisco,CA ,6.0,0,1,1,0,0,Daylight,Weather - Clear,Dry,Stopped
+2023,7,Jaguar,I-Pace,Tempe,AZ ,15.0,1,0,1,1,0,Daylight,Weather - Clear,Dry,Proceeding Straight
+2023,7,Cruise,AV,San Francisco,CA ,14.0,0,1,1,0,0,Daylight,Weather - Clear,Dry,Proceeding Straight
+2023,7,Cruise,AV,Austin,TX ,5.0,1,0,1,1,0,Dark - Lighted,Weather - Clear,Dry,Proceeding Straight
+2023,7,Jaguar,I-Pace,San Francisco,CA ,15.0,1,0,0,1,0,Daylight,Weather - Clear,Dry,"Other, see Narrative"
+2023,7,Jaguar,I-Pace,San Francisco,CA ,15.0,1,0,0,1,0,Daylight,Weather - Clear,Dry,"Other, see Narrative"
+2023,7,Cruise,AV,San Francisco,CA ,14.0,0,1,1,0,0,Daylight,Weather - Clear,Dry,Proceeding Straight
+2023,7,Cruise,AV,Austin,TX ,5.0,1,0,1,1,0,Dark - Lighted,Weather - Clear,Dry,Proceeding Straight
+2023,7,Cruise,AV,Tempe,AZ ,20.0,0,1,1,1,0,Dark - Lighted,Weather - Clear,Dry,Proceeding Straight
+2023,7,Cruise,AV,San Francisco,CA ,1.0,0,1,0,1,0,Dark - Lighted,Weather - Clear,Dry,Proceeding Straight
+2023,7,Cruise,AV,Tempe,AZ ,20.0,0,1,1,1,0,Dark - Lighted,Weather - Clear,Dry,Proceeding Straight
+2023,7,Cruise,AV,San Francisco,CA ,1.0,0,1,0,1,0,Dark - Lighted,Weather - Clear,Dry,Proceeding Straight
+2023,7,Cruise,AV,Austin,TX ,19.0,0,0,0,1,0,Dawn / Dusk,Weather - Clear,Dry,Proceeding Straight
+2023,7,Cruise,AV,Austin,TX ,19.0,0,0,0,1,0,Dawn / Dusk,Weather - Clear,Dry,Proceeding Straight
+2023,7,Cruise,AV,San Francisco,CA ,23.0,0,0,1,0,0,Dark - Lighted,Weather - Clear,Dry,Proceeding Straight
+2023,7,Cruise,AV,San Francisco,CA ,23.0,0,0,1,0,0,Dark - Lighted,Weather - Clear,Dry,Proceeding Straight
+2023,7,Jaguar,I-Pace,Los Angeles,CA ,15.0,1,0,1,0,0,Daylight,Weather - Clear,Dry,Making Right Turn
+2023,7,Jaguar,I-Pace,Los Angeles,CA ,15.0,1,0,1,0,0,Daylight,Weather - Clear,Dry,Making Right Turn
+2023,6,Jaguar,I-Pace,Tempe,AZ ,21.0,0,1,1,0,0,Dark - Not Lighted,Weather - Clear,Dry,Proceeding Straight
+2023,6,Jaguar,I-Pace,Tempe,AZ ,21.0,0,1,1,0,0,Dark - Not Lighted,Weather - Clear,Dry,Proceeding Straight
+2023,6,Jaguar,I-Pace,San Francisco,CA ,7.0,1,0,0,0,0,Daylight,Weather - Cloudy,Dry,Stopped
+2023,6,Jaguar,I-Pace,San Francisco,CA ,21.0,1,0,0,1,0,Dark - Lighted,Weather - Clear,Dry,Parked
+2023,6,Jaguar,I-Pace,San Francisco,CA ,17.0,1,0,1,1,0,Daylight,Weather - Clear,Dry,Making Left Turn
+2023,6,Jaguar,I-Pace,San Francisco,CA ,15.0,1,0,1,0,0,Daylight,Weather - Cloudy,Dry,Parked
+2023,6,Jaguar,I-Pace,San Francisco,CA ,12.0,0,0,1,0,0,Daylight,Weather - Cloudy,Dry,Stopped
+2023,6,Cruise,AV,Austin,TX ,21.0,0,1,1,0,0,Dawn / Dusk,Weather - Clear,Dry,Stopped
+2023,6,Cruise,AV,San Francisco,CA ,23.0,0,1,0,1,0,Dark - Lighted,Weather - Clear,Dry,Proceeding Straight
+2023,6,Cruise,AV,San Francisco,CA ,0.0,1,0,1,0,0,Dark - Lighted,Weather - Clear,Dry,Proceeding Straight
+2023,6,Cruise,AV,San Francisco,CA ,23.0,0,0,0,0,1,Dark - Lighted,Weather - Clear,Dry,Proceeding Straight
+2023,6,Cruise,AV,San Francisco,CA ,22.0,0,1,0,0,0,Dark - Lighted,Weather - Clear,Dry,Stopped
+2023,6,Cruise,AV,San Francisco,CA ,9.0,0,0,0,0,1,Daylight,Weather - Cloudy,Dry,Proceeding Straight
+2023,6,Hyundai,Ioniq 5,Las Vegas,NV ,21.0,1,0,0,1,0,Dark - Lighted,Weather - Clear,Dry,Making Left Turn
+2023,7,Jaguar,I-Pace,Chandler,AZ ,18.0,0,1,1,1,0,Daylight,Weather - Clear,Dry,Stopped
+2023,6,Hyundai,IONIQ 5,Las Vegas,NV ,21.0,1,0,0,1,0,Dark - Lighted,Weather - Clear,Dry,Making Left Turn
+2023,6,Cruise,AV,Austin,TX ,21.0,0,1,1,0,0,Dawn / Dusk,Weather - Clear,Dry,Stopped
+2023,6,Cruise,AV,San Francisco,CA ,23.0,0,1,0,1,0,Dark - Lighted,Weather - Clear,Dry,Proceeding Straight
+2023,6,Cruise,AV,San Francisco,CA ,0.0,1,0,1,0,0,Dark - Lighted,Weather - Clear,Dry,Proceeding Straight
+2023,6,Cruise,AV,San Francisco,CA ,23.0,0,0,0,0,1,Dark - Lighted,Weather - Clear,Dry,Proceeding Straight
+2023,6,Cruise,AV,San Francisco,CA ,22.0,0,1,0,0,0,Dark - Lighted,Weather - Clear,Dry,Stopped
+2023,6,Cruise,AV,San Francisco,CA ,9.0,0,0,0,0,1,Daylight,Weather - Cloudy,Dry,Proceeding Straight
+2023,7,Cruise,AV,San Francisco,CA ,22.0,0,1,0,1,0,Dark - Lighted,Weather - Clear,Dry,Proceeding Straight
+2023,7,Cruise,AV,San Francisco,CA ,22.0,0,1,0,1,0,Dark - Lighted,Weather - Clear,Dry,Proceeding Straight
+2023,6,Lucid,Air Touring,Foster,RI ,14.0,0,1,1,1,0,Daylight,Weather - Cloudy,Dry,Proceeding Straight
+2023,6,Jaguar,I-Pace,Los Angeles,CA ,23.0,1,1,1,0,0,Dark - Lighted,Weather - Clear,Dry,"Other, see Narrative"
+2023,6,Jaguar,I-Pace,Los Angeles,CA ,23.0,1,1,1,0,0,Dark - Lighted,Weather - Clear,Dry,"Other, see Narrative"
+2023,6,Jaguar,I-Pace,Phoenix,AZ ,20.0,1,0,1,0,0,Dark - Lighted,Weather - Clear,Dry,Changing Lanes
+2023,6,Jaguar,I-Pace,Phoenix,AZ ,20.0,1,0,1,0,0,Dark - Lighted,Weather - Clear,Dry,Changing Lanes
+2023,6,Cruise,AV,San Francisco,CA ,22.0,0,0,0,0,1,Dark - Lighted,Weather - Clear,Dry,Proceeding Straight
+2023,6,Cruise,AV,San Francisco,CA ,22.0,0,0,0,0,1,Dark - Lighted,Weather - Clear,Dry,Proceeding Straight
+2023,6,Cruise,AV,San Francisco,CA ,22.0,1,0,1,1,0,Dark - Lighted,Weather - Cloudy,Dry,Stopped
+2023,6,Cruise,AV,San Francisco,CA ,22.0,1,0,1,1,0,Dark - Lighted,Weather - Cloudy,Dry,Stopped
+2023,5,Jaguar,I-Pace,San Francisco,CA ,10.0,0,0,0,0,1,Daylight,Weather - Cloudy,Dry,Proceeding Straight
+2023,5,Jaguar,I-Pace,Tempe,AZ ,23.0,1,0,0,0,0,Dark - Lighted,Weather - Clear,Dry,Stopped
+2023,5,Jaguar,I-Pace,Mesa,AZ ,21.0,0,1,0,1,0,Dark - Lighted,Weather - Clear,Dry,Proceeding Straight
+2023,5,Jaguar,I-Pace,San Francisco,CA ,10.0,0,0,0,0,1,Daylight,Weather - Cloudy,Dry,Proceeding Straight
+2023,5,Jaguar,I-Pace,Phoenix,AZ ,9.0,0,1,0,1,0,Daylight,Weather - Clear,Dry,Stopped
+2023,5,Jaguar,I-Pace,Tempe,AZ ,23.0,1,0,0,0,0,Dark - Lighted,Weather - Clear,Dry,Stopped
+2023,5,Jaguar,I-Pace,San Francisco,CA ,20.0,0,1,1,0,0,Dark - Lighted,Weather - Cloudy,Dry,Parking Maneuver
+2023,5,Jaguar,I-Pace,Mesa,AZ ,21.0,0,1,0,1,0,Dark - Lighted,Weather - Clear,Dry,Proceeding Straight
+2023,5,Jaguar,I-Pace,Phoenix,AZ ,13.0,0,0,0,1,0,Daylight,Weather - Clear,Dry,Proceeding Straight
+2023,6,NISSAN,LEAF,san jose,CA ,14.0,0,1,1,1,0,Daylight,Weather - Clear,Dry,Stopped
+2023,5,Cruise,AV,Austin,TX ,0.0,1,0,0,1,0,Dark - Lighted,Weather - Clear,Dry,Stopped
+2023,5,Cruise,AV,Austin,TX ,23.0,1,0,1,1,0,Dark - Lighted,Weather - Clear,Dry,Stopped
+2023,5,Cruise,AV,Austin,TX ,0.0,0,1,1,0,0,Dark - Lighted,Weather - Clear,Dry,Proceeding Straight
+2023,5,Cruise,AV,Austin,TX ,0.0,0,0,0,1,0,Dark - Lighted,Weather - Clear,Dry,Stopped
+2023,5,Cruise,AV,San Francisco,CA ,3.0,0,0,1,0,0,Dark - Lighted,Weather - Clear,Dry,Proceeding Straight
+2023,5,Cruise,AV,Austin,TX ,0.0,1,0,0,1,0,Dark - Lighted,Weather - Clear,Dry,Stopped
+2023,5,Cruise,AV,Austin,TX ,23.0,1,0,1,1,0,Dark - Lighted,Weather - Clear,Dry,Stopped
+2023,5,Cruise,AV,Austin,TX ,0.0,0,1,1,0,0,Dark - Lighted,Weather - Clear,Dry,Proceeding Straight
+2023,5,Cruise,AV,Austin,TX ,0.0,0,0,0,1,0,Dark - Lighted,Weather - Clear,Dry,Stopped
+2023,5,Cruise,AV,San Francisco,CA ,3.0,0,0,1,0,0,Dark - Lighted,Weather - Clear,Dry,Proceeding Straight
+2023,6,Hyundai,Kona EV,Fremont,CA ,11.0,1,0,0,0,0,Daylight,Weather - Clear,Dry,Stopped
+2023,1,Toyota,Highlander,Las Vegas,NV ,15.0,0,0,1,0,0,Daylight,Weather - Clear,Dry,Proceeding Straight
+2023,5,Toyota,Highlander,San Francisco,CA ,11.0,1,0,0,0,0,Daylight,Weather - Clear,Dry,Proceeding Straight
+2023,5,Toyota,Highlander,Paradise,NV ,10.0,1,0,0,0,0,Daylight,Weather - Clear,Dry,Stopped
+2023,6,Jaguar,I-PACE,Phoenix,AZ ,13.0,1,0,1,1,0,Daylight,Weather - Clear,Dry,Proceeding Straight
+2023,6,Cruise,AV,Chandler,AZ ,4.0,0,1,1,0,0,Dark - Lighted,Weather - Clear,Dry,Proceeding Straight
+2023,6,Jaguar,I-PACE,Phoenix,AZ ,13.0,1,0,1,1,0,Daylight,Weather - Clear,Dry,Proceeding Straight
+2023,6,Cruise,AV,Chandler,AZ ,4.0,0,1,1,0,0,Dark - Lighted,Weather - Clear,Dry,Proceeding Straight
+2023,5,Cruise,AV,San Drancisco,CA ,21.0,1,1,1,0,0,Dark - Lighted,Weather - Clear,Dry,Proceeding Straight
+2023,5,Toyota,Sienna,Grand Rapids,MN ,16.0,1,0,0,1,0,Daylight,Weather - Clear,Dry,Stopped
+2023,5,Cruise,AV,San Francisco,CA ,21.0,1,1,1,0,0,Dark - Lighted,Weather - Clear,Dry,Proceeding Straight
+2023,5,Jaguar,I-Pace,Phoenix,AZ ,17.0,0,0,0,0,1,Daylight,Weather - Clear,Dry,Proceeding Straight
+2023,5,Jaguar,I-Pace,Phoenix,AZ ,17.0,0,0,0,0,1,Daylight,Weather - Clear,Dry,Proceeding Straight
+2023,5,Jaguar,I-Pace,San Francisco,CA ,15.0,0,1,0,1,0,Daylight,Weather - Clear,Dry,Stopped
+2023,4,Jaguar,I-PACE,San Francisco,CA ,22.0,1,0,0,1,0,Dark - Lighted,Weather - Clear,Dry,Stopped
+2023,4,Jaguar,I-PACE,Santa Monica,CA ,17.0,1,0,0,0,0,Daylight,Weather - Clear,Dry,Stopped
+2023,5,Jaguar,I-Pace,San Francisco,CA ,10.0,1,0,1,0,0,Daylight,Weather - Cloudy,Dry,Proceeding Straight
+2023,4,Cruise,AV,Mesa,AZ ,14.0,0,0,0,0,1,Daylight,Weather - Clear,Dry,Proceeding Straight
+2023,5,Nissan,Leaf,San Francisco,CA ,11.0,1,0,0,0,0,Daylight,Weather - Clear,Dry,Stopped
+2023,5,Jaguar,I-Pace,San Francisco,CA ,10.0,1,0,1,0,0,Daylight,Weather - Cloudy,Dry,Proceeding Straight
+2023,4,Jaguar,I-PACE,San Francisco,CA ,13.0,1,0,0,1,0,Daylight,Weather - Clear,Dry,Parked
+2023,4,Jaguar,I-PACE,San Francisco,CA ,17.0,0,1,1,0,0,Daylight,Weather - Clear,Dry,Stopped
+2023,4,Jaguar,I-PACE,Phoenix,AZ ,8.0,1,0,0,0,0,Daylight,Weather - Clear,Dry,Proceeding Straight
+2023,4,Chrysler,Pacifica,Tempe,AZ ,15.0,0,1,1,0,0,Daylight,Weather - Clear,Dry,Proceeding Straight
+2023,4,Jaguar,I-PACE,Santa Monica,CA ,17.0,1,0,0,0,0,Daylight,Weather - Clear,Dry,Stopped
+2023,4,Jaguar,I-PACE,San Francisco,CA ,22.0,1,0,0,1,0,Dark - Lighted,Weather - Clear,Dry,Stopped
+2023,4,Hyundai,Santa Fe,Gahanna,OH ,15.0,0,0,1,0,0,Daylight,Weather - Clear,Dry,Proceeding Straight
+2023,4,Cruise,AV,San Francisco,CA ,21.0,1,0,1,1,0,Dark - Lighted,Weather - Clear,Dry,Making Right Turn
+2023,4,Cruise,AV,San Francisco,CA ,20.0,0,1,0,1,0,Dark - Lighted,Weather - Clear,Dry,Stopped
+2023,4,Cruise,AV,San Francisco,CA ,23.0,0,0,0,0,1,Dark - Lighted,Weather - Clear,Dry,Proceeding Straight
+2023,4,Cruise,AV,San Francisco,CA ,0.0,1,0,0,1,0,Dark - Lighted,Weather - Clear,Dry,Stopped
+2023,4,Cruise,AV,Mesa,AZ ,14.0,0,0,0,0,1,Daylight,Weather - Clear,Dry,Proceeding Straight
+2023,4,Cruise,AV,San Francisco,CA ,21.0,1,0,1,1,0,Dark - Lighted,Weather - Clear,Dry,Making Right Turn
+2023,4,Cruise,AV,San Francisco,CA ,20.0,0,1,0,1,0,Dark - Lighted,Weather - Clear,Dry,Stopped
+2023,4,Cruise,AV,San Francisco,CA ,23.0,0,0,0,0,1,Dark - Lighted,Weather - Clear,Dry,Proceeding Straight
+2023,4,Cruise,AV,San Francisco,CA ,0.0,1,0,0,1,0,Dark - Lighted,Weather - Clear,Dry,Stopped
+2023,5,Cruise,AV,San Francisco,CA ,2.0,0,1,1,0,0,Dark - Lighted,Weather - Clear,Dry,Making Left Turn
+2023,5,Cruise,AV,San Francisco,CA ,2.0,0,1,1,0,0,Dark - Lighted,Weather - Clear,Dry,Making Left Turn
+2023,5,Cruise,AV,San Francisco,CA ,9.0,1,0,0,0,0,Daylight,Weather - Clear,Dry,Proceeding Straight
+2023,5,Cruise,AV,San Francisco,CA ,9.0,1,0,0,1,0,Daylight,Weather - Clear,Dry,Proceeding Straight
+2023,4,Lexus,RX450h,Ann Arbor,MI ,16.0,1,0,1,1,0,Daylight,Weather - Clear,Dry,"Other, see Narrative"
+2022,6,Toyota,Highlander,San Francisco,CA ,13.0,1,0,0,1,0,Daylight,Weather - Clear,Dry,Proceeding Straight
+2022,6,Toyota,Highlander,San Mateo,CA ,10.0,0,1,0,1,0,Daylight,Weather - Clear,Dry,Parking Maneuver
+2023,4,Cruise,AV,Austin,TX ,3.0,0,0,0,1,0,Dark - Lighted,Weather - Clear,Dry,Stopped
+2023,4,Cruise,AV,Austin,TX ,3.0,0,1,1,0,0,Dark - Lighted,Weather - Clear,Dry,Proceeding Straight
+2023,4,Cruise,AV,Austin,TX ,3.0,0,1,1,0,0,Dark - Lighted,Weather - Clear,Dry,Proceeding Straight
+2023,4,Cruise,AV,Austin,TX ,3.0,0,0,0,1,0,Dark - Lighted,Weather - Clear,Dry,Stopped
+2022,2,Toyota,Highlander,San Francisco,CA ,8.0,0,1,0,0,0,Daylight,Weather - Clear,Dry,Stopped
+2022,5,Toyota,Highlander,San Francisco,CA ,13.0,1,0,0,0,0,Daylight,Weather - Clear,Dry,Stopped
+2022,7,Toyota,Highlander,San Francisco,CA ,14.0,1,0,0,0,0,Daylight,Weather - Clear,Dry,Proceeding Straight
+2022,8,Toyota,Highlander,Menlo Park,CA ,17.0,1,0,1,0,0,Daylight,Weather - Clear,Dry,Making Left Turn
+2023,2,Toyota,Highlander,San Francisco,CA ,14.0,0,1,0,0,0,Daylight,Weather - Clear,Dry,Making Right Turn
+2023,2,Toyota,Highlander,San Francisco,CA ,13.0,1,0,0,0,0,Daylight,Weather - Clear,Dry,Stopped
+2023,2,Toyota,Highlander,San Francisco,CA ,18.0,1,0,0,0,0,Dark - Lighted,Weather - Clear,Dry,Stopped
+2023,4,Toyota,Highlander,San Francisco,CA ,11.0,1,0,1,0,0,Daylight,Weather - Clear,Dry,Stopped
+2023,4,Cruise,AV,San Francisco,CA ,4.0,0,0,0,1,0,Dark - Lighted,Weather - Clear,Dry,Proceeding Straight
+2023,4,Cruise,AV,San Francisco,CA ,4.0,0,0,0,1,0,Dark - Lighted,Weather - Clear,Dry,Proceeding Straight
+2023,4,Jaguar,I-Pace,San Francisco,CA ,10.0,1,0,1,0,0,Daylight,Weather - Clear,Dry,Stopped
+2023,3,Jaguar,I-Pace,Tempe,AZ ,13.0,1,0,0,0,0,Daylight,Weather - Clear,Dry,Making Right Turn
+2023,3,Jaguar,I-Pace,Los Angeles,CA ,10.0,1,0,1,0,0,Daylight,Weather - Cloudy,Dry,Stopped
+2023,3,Jaguar,I-Pace,San Francisco,CA ,21.0,1,0,1,1,0,Dark - Lighted,Weather - Rain,Wet,Stopped
+2023,3,Jaguar,I-Pace,San Bruno,CA ,2.0,0,0,0,0,1,Dark - Lighted,Weather - Clear,Dry,Proceeding Straight
+2023,3,Jaguar,I-Pace,San Francisco,CA ,17.0,0,1,0,0,0,Daylight,Weather - Clear,Dry,Changing Lanes
+2023,3,Jaguar,I-Pace,Tempe,AZ ,19.0,1,0,1,1,0,Dark - Lighted,Weather - Clear,Dry,Proceeding Straight
+2023,3,Jaguar,I-Pace,Tempe,AZ ,19.0,1,0,1,1,0,Dark - Lighted,Weather - Clear,Dry,Proceeding Straight
+2023,3,Jaguar,I-Pace,Tempe,AZ ,13.0,1,0,0,0,0,Daylight,Weather - Clear,Dry,Making Right Turn
+2023,3,Jaguar,I-Pace,Los Angeles,CA ,10.0,1,0,1,0,0,Daylight,Weather - Cloudy,Dry,Stopped
+2022,12,Nissan,Leaf SV Plus,Las Vegas,NV ,16.0,1,0,0,0,0,Dawn / Dusk,Weather - Clear,Dry,Making Right Turn
+2023,3,Jaguar,I-Pace,San Francisco,CA ,17.0,0,1,0,0,0,Daylight,Weather - Clear,Dry,Changing Lanes
+2023,3,Jaguar,I-Pace,San Bruno,CA ,2.0,1,0,1,0,1,Dark - Lighted,Weather - Clear,Dry,Proceeding Straight
+2023,3,Jaguar,I-Pace,San Francisco,CA ,21.0,1,0,1,1,0,Dark - Lighted,Weather - Rain,Wet,Stopped
+2023,3,Jaguar,I-Pace,San Francisco,CA ,20.0,0,1,1,1,0,Dark - Lighted,Weather - Clear,Dry,Entering Traffic
+2023,3,Jaguar,I-Pace,Phoenix,AZ ,12.0,0,1,0,1,0,Daylight,Weather - Clear,Dry,Stopped
+2023,4,Jaguar,I-Pace,San Francisco,CA ,10.0,1,0,0,1,0,Daylight,Weather - Clear,Dry,Stopped
+2023,4,Jaguar,I-Pace,San Francisco,CA ,10.0,1,0,1,0,0,Daylight,Weather - Clear,Dry,Stopped
+2023,3,Peterbilt,579,Weatherford,TX ,8.0,0,1,0,1,0,Daylight,Weather - Cloudy,Dry,Lane / Road Departure
+2023,3,Peterbilt,579m,Weatherford,TX ,8.0,0,1,0,1,0,Daylight,Weather - Cloudy,Dry,Proceeding Straight
+2023,3,Cruise,AV,San Francisco,CA ,3.0,0,1,1,0,0,Dark - Lighted,Weather - Rain,Wet,Proceeding Straight
+2023,3,Cruise,AV,San Francisco,CA ,23.0,1,0,1,1,0,Dark - Lighted,Weather - Clear,Dry,Stopped
+2023,3,Cruise,AV,San Francisco,CA ,23.0,0,1,1,0,0,Dark - Lighted,Weather - Clear,Dry,Stopped
+2023,3,Cruise,AV,San Francisco,CA ,4.0,1,1,0,1,0,Dark - Lighted,Weather - Clear,Dry,Proceeding Straight
+2023,3,Cruise,AV,San Francisco,CA ,21.0,0,0,0,1,0,Dark - Lighted,Weather - Rain,Wet,Proceeding Straight
+2023,3,Toyota,Highlander,Paradise,NV ,14.0,1,0,1,1,0,Daylight,Weather - Clear,Dry,Merging
+2023,3,Cruise,AV,San Francisco,CA ,23.0,1,0,1,1,0,Dark - Lighted,Weather - Clear,Dry,Stopped
+2023,3,Cruise,AV,San Francisco,CA ,3.0,0,1,1,0,0,Dark - Lighted,Weather - Rain,Wet,Proceeding Straight
+2023,3,Cruise,AV,San Francisco,CA ,21.0,0,0,0,1,0,Dark - Lighted,Weather - Rain,Wet,Proceeding Straight
+2023,3,Cruise,AV,San Francisco,CA ,23.0,0,1,1,0,0,Dark - Lighted,Weather - Clear,Dry,Stopped
+2023,3,Cruise,AV,San Francisco,CA ,4.0,1,1,0,1,0,Dark - Lighted,Weather - Clear,Dry,Proceeding Straight
+2023,3,Toyota,Highlander,Paradise,NV ,22.0,0,1,1,0,0,Dark - Unknown Lighting,Weather - Clear,Dry,Making Right Turn
+2023,3,Cruise,AV,San Francisco,CA ,4.0,0,1,1,1,0,Dark - Lighted,Weather - Rain,Wet,Proceeding Straight
+2023,3,Cruise,AV,San Francisco,CA ,14.0,0,1,1,1,0,Daylight,Weather - Clear,Dry,Proceeding Straight
+2023,3,Cruise,AV,San Francisco,CA ,4.0,0,1,1,1,0,Dark - Lighted,Weather - Rain,Wet,Proceeding Straight
+2023,3,Cruise,AV,San Francisco,CA ,14.0,0,1,1,1,0,Daylight,Weather - Clear,Dry,Proceeding Straight
+2023,3,Jaguar,I-Pace,San Francisco,CA ,20.0,1,0,1,0,0,Dark - Lighted,Weather - Clear,Dry,Proceeding Straight
+2023,3,Cruise,AV,San Francisco,CA ,3.0,0,1,1,0,0,Dark - Lighted,Weather - Clear,Dry,Proceeding Straight
+2023,3,Cruise,AV,San Francisco,CA ,3.0,0,1,1,0,0,Dark - Lighted,Weather - Clear,Dry,Proceeding Straight
+2023,3,Cruise,AV,Tempe,AZ ,13.0,0,0,0,1,0,Daylight,Weather - Clear,Dry,Proceeding Straight
+2023,3,Cruise,AV,Tempe,AZ ,13.0,0,0,0,1,0,Daylight,Weather - Clear,Dry,Proceeding Straight
+2023,2,Jaguar,I-Pace,Tempe,AZ ,17.0,1,0,0,1,0,Daylight,Weather - Clear,Dry,Proceeding Straight
+2023,2,Jaguar,I-Pace,San Francisco,CA ,7.0,1,0,0,1,0,Daylight,Weather - Clear,Dry,Stopped
+2023,2,Jaguar,I-Pace,San Francisco,CA ,5.0,0,1,0,0,0,Dark - Lighted,Weather - Clear,Dry,Proceeding Straight
+2023,2,Jaguar,I-Pace,Tempe,AZ ,17.0,1,0,0,1,0,Daylight,Weather - Clear,Dry,Proceeding Straight
+2023,2,Jaguar,I-Pace,San Francisco,CA ,0.0,0,0,0,1,0,Dark - Lighted,Weather - Rain,Wet,Making Left Turn
+2023,3,Cruise,AV,San Francisco,CA ,1.0,0,1,0,1,0,Dawn / Dusk,Weather - Clear,Dry,Making Left Turn
+2023,3,Cruise,AV,San Francisco,CA ,1.0,0,1,0,1,0,Dark - Lighted,Weather - Clear,Dry,Making Left Turn
+2023,2,Cruise,AV,San Francisco,CA ,0.0,0,0,0,1,0,Dark - Lighted,Weather - Clear,Dry,Merging
+2023,2,Cruise,AV,San Fancisco,CA ,2.0,0,0,1,0,0,Dark - Lighted,Weather - Clear,Dry,Stopped
+2023,2,Mercedes-Benz,S580,Gardena,CA ,15.0,1,0,1,1,0,Daylight,Weather - Clear,Dry,Proceeding Straight
+2023,2,Mercedes-Benz,S580,Downey,CA ,8.0,1,0,1,1,0,Daylight,Weather - Clear,Dry,Stopped
+2023,2,Kenworth Motor Truck Co,T680,Waxahachie,TX ,10.0,1,0,0,1,0,Daylight,Weather - Cloudy,Dry,Proceeding Straight
+2023,1,Toyota,Highlander,San Francisco,CA ,18.0,0,1,0,1,0,Dark - Lighted,Weather - Clear,Dry,Proceeding Straight
+2023,2,Cruise,AV,San Francisco,CA ,0.0,0,0,0,1,0,Dark - Lighted,Weather - Clear,Dry,Merging
+2023,2,Cruise,AV,San Francisco,CA ,2.0,0,0,1,0,0,Dark - Lighted,Weather - Clear,Dry,Stopped
+2023,2,Kenworth Motor Truck Co,T680,Waxahachie,TX ,10.0,1,0,0,1,0,Daylight,Weather - Cloudy,Dry,Proceeding Straight
+2023,2,Hyundai,Ioniq 5,Las Vegas,NV ,14.0,1,0,0,0,0,Daylight,Weather - Clear,Dry,Changing Lanes
+2023,2,Jaguar,I-Pace,Tempe,AZ ,13.0,1,0,1,1,0,Daylight,Weather - Clear,Dry,Proceeding Straight
+2023,2,Jaguar,I-Pace,Tempe,AZ ,13.0,1,0,1,1,0,Daylight,Weather - Clear,Dry,Proceeding Straight
+2023,2,Cruise,AV,San Francisco,CA ,0.0,0,1,0,1,0,Dark - Lighted,Weather - Clear,Dry,Proceeding Straight
+2023,2,Cruise,AV,San Francisco,CA ,0.0,0,1,0,1,0,Dark - Lighted,Weather - Clear,Dry,Proceeding Straight
+2023,1,Local Motors,2.0,Peachtree Corners,GA ,11.0,0,1,1,0,0,Daylight,Weather - Cloudy,Dry,Proceeding Straight
+2023,1,Lucid,Air,Los Alamitos,CA ,6.0,0,1,1,1,0,Dawn / Dusk,Weather - Clear,Dry,Proceeding Straight
+2023,2,Toyota,Highlander,Paradise,NV ,13.0,1,0,0,1,0,Daylight,Weather - Clear,Dry,Merging
+2023,1,Jaguar,I-Pace,San Francisco,CA ,17.0,1,0,0,1,0,Daylight,Weather - Clear,Dry,Proceeding Straight
+2023,1,Chrysler,Pacifica,Chandler,AZ ,13.0,1,0,0,1,0,Daylight,Weather - Clear,Dry,Making Right Turn
+2023,1,Jaguar,I-Pace,San Francisco,CA ,17.0,1,0,0,1,0,Daylight,Weather - Clear,Dry,Proceeding Straight
+2023,1,Jaguar,I-Pace,Phoenix,AZ ,17.0,1,0,0,1,0,Dark - Lighted,Weather - Clear,Dry,Stopped
+2023,2,Kenworth Motor Truck Co,T680,Waxahachie,TX ,10.0,1,0,0,1,0,Daylight,Weather - Cloudy,Dry,Proceeding Straight
+2023,1,Hyundai,Ioniq 5,Las Vegas,NV ,13.0,0,1,0,1,0,Daylight,Weather - Clear,Dry,Proceeding Straight
+2023,1,Jaguar,I-Pace,Phoenix,AZ ,13.0,0,1,1,0,0,Daylight,Weather - Clear,Dry,Proceeding Straight
+2022,12,Jaguar,I-Pace,San Francisco,CA ,12.0,1,0,0,0,0,Daylight,Weather - Clear,Dry,Stopped
+2022,12,Jaguar,I-Pace,San Francisco,CA ,3.0,1,0,0,0,0,Dark - Lighted,Weather - Rain,Wet,Stopped
+2022,12,Peterbilt,579 Epiq,Sacaton,AZ ,5.0,0,1,1,0,0,Dark - Not Lighted,Weather - Cloudy,Dry,Changing Lanes
+2022,12,Jaguar,I- Pace,San Francisco,CA ,16.0,1,0,0,1,0,Dawn / Dusk,Weather - Clear,Dry,Stopped
+2022,12,Jaguar,I-Pace,San Francisco,CA ,3.0,1,0,0,0,0,Dark - Lighted,Weather - Rain,Wet,Stopped
+2022,12,Peterbilt,579 Epiq,Sacaton,AZ ,5.0,0,1,1,0,0,Dark - Not Lighted,Weather - Cloudy,Dry,Changing Lanes
+2022,12,Jaguar,I-Pace,San Francisco,CA ,12.0,1,0,0,0,0,Daylight,Weather - Clear,Dry,Stopped
+2022,12,Jaguar,I-Pace,San Francisco,CA ,16.0,1,0,0,1,0,Dawn / Dusk,Weather - Clear,Dry,Stopped
+2022,12,Cruise,AV,San Francisco,CA ,23.0,0,1,1,0,0,Dark - Lighted,Weather - Rain,Wet,Proceeding Straight
+2022,12,Cruise,AV,San Francisco,CA ,23.0,0,1,0,1,0,Dark - Lighted,Weather - Clear,Dry,Proceeding Straight
+2022,12,Cruise,AV,San Francisco,CA ,23.0,0,1,1,0,0,Dark - Lighted,Weather - Rain,Wet,Proceeding Straight
+2022,12,Cruise,AV,San Francisco,CA ,23.0,0,1,0,1,0,Dark - Lighted,Weather - Clear,Dry,Proceeding Straight
+2022,12,Lucid,Air (All grades),Ventura,CA ,17.0,0,0,0,1,0,Dawn / Dusk,Weather - Rain,Wet,Proceeding Straight
+2022,12,Cruise,AV,San Francisco,CA ,8.0,0,1,1,0,0,Daylight,Weather - Clear,Dry,Proceeding Straight
+2022,12,Cruise,AV,San Francisco,CA ,8.0,0,1,1,0,0,Daylight,Weather - Clear,Dry,Proceeding Straight
+2022,12,Cruise,AV,San Francisco,CA ,23.0,0,1,0,1,0,Dark - Lighted,Weather - Clear,Dry,Stopped
+2022,12,Cruise,AV,San Francisco,CA ,23.0,0,1,0,1,0,Dark - Lighted,Weather - Clear,Dry,Stopped
+2022,12,Jaguar,I-Pace,San Francisco,CA ,13.0,1,0,1,1,0,Daylight,Weather - Clear,Dry,Stopped
+2022,12,Jaguar,I-Pace,San Francisco,CA ,13.0,1,0,1,1,0,Daylight,Weather - Clear,Dry,Stopped
+2022,12,Toyota,Sienna,Sun City,AZ ,9.0,1,0,1,0,0,Daylight,Weather - Clear,Dry,Stopped
+2022,11,Lexus,RX450H,Ann Arbor,MI ,15.0,0,1,0,1,0,Daylight,Weather - Clear,Dry,Entering Traffic
+2022,11,Jaguar,I-Pace,San Francisco,CA ,16.0,0,1,1,0,0,Daylight,Weather - Cloudy,Dry,Backing
+2022,11,Jaguar,I-Pace,San Francisco,CA ,9.0,1,0,0,1,0,Daylight,Weather - Rain,Wet,Stopped
+2022,11,Jaguar,I-Pace,San Francisco,CA ,9.0,1,0,0,1,0,Daylight,Weather - Rain,Wet,Stopped
+2022,11,Jaguar,I-Pace,Phoenix,AZ ,8.0,1,0,0,1,0,Daylight,Weather - Clear,Dry,Stopped
+2022,11,Jaguar,I-Pace,San Francisco,CA ,16.0,0,1,1,0,0,Daylight,Weather - Cloudy,Dry,Backing
+2022,12,Navya,ARMA,Port Saint Lucie,FL ,17.0,0,1,0,0,0,Dawn / Dusk,Weather - Clear,Dry,"Other, see Narrative"
+2022,11,Mercedes-Benz,S450,San Jose,CA ,17.0,0,1,1,1,0,Dark - Lighted,Weather - Clear,Dry,Changing Lanes
+2022,11,Mercedes-Benz,S450,San Jose,CA ,17.0,0,1,1,1,0,Dark - Lighted,Weather - Clear,Dry,Changing Lanes
+2022,12,Jaguar,I-Pace,Phoenix,AZ ,21.0,1,1,1,1,0,Dark - Lighted,Weather - Clear,Wet,Making Right Turn
+2022,11,Toyota,Highlander,San Francisco,CA ,22.0,1,0,1,0,0,Dark - Lighted,Weather - Clear,Dry,Making Left Turn
+2022,11,Toyota,Highlander,San Francisco,CA ,13.0,1,0,0,0,0,Daylight,Weather - Clear,Dry,Stopped
+2022,11,Toyota,Highlander,Las Vegas,NV ,18.0,0,1,0,1,0,Dark - Lighted,Weather - Clear,Dry,Changing Lanes
+2022,11,Toyota,Highlander,San Francisco,CA ,20.0,1,0,0,0,0,Dark - Lighted,Weather - Clear,Dry,Proceeding Straight
+2022,12,Toyota,Sienna,Sun City,AZ ,9.0,1,0,1,0,0,Daylight,Weather - Clear,Dry,Stopped
+2022,12,Lexus,RX450h,Ann Arbor,MI ,18.0,1,0,0,1,0,Dark - Lighted,Weather - Clear,Dry,Stopped
+2022,10,Jaguar,I-Pace,San Francisco,CA ,8.0,0,0,0,0,1,Daylight,Weather - Clear,Dry,Proceeding Straight
+2022,10,Jaguar,I-Pace,San Francisco,CA ,8.0,0,0,0,0,1,Daylight,Weather - Clear,Dry,Making Right Turn
+2022,10,Peterbilt,579,Shenandoah,TX ,10.0,0,1,1,0,0,Daylight,Weather - Clear,Dry,Proceeding Straight
+2022,10,Ford,Escape,Austin,TX ,8.0,1,0,0,1,0,Daylight,Weather - Clear,Dry,Making Right Turn
+2022,10,Ford,Escape,Austin,TX ,13.0,0,0,1,0,0,Daylight,Weather - Clear,Dry,Proceeding Straight
+2022,9,Toyota,Sienna,Sun City,AZ ,9.0,0,1,0,0,0,Daylight,Weather - Clear,Dry,Backing
+2022,10,Toyota,Highlander,San Francisco,CA ,13.0,0,1,1,1,0,Daylight,Weather - Clear,Dry,Proceeding Straight
+2022,10,Toyota,Highlander,San Francisco,CA ,14.0,0,1,0,0,0,Daylight,Weather - Clear,Dry,Stopped
+2022,11,Lexus,RX450H,Ann Arbor,MI ,15.0,0,1,0,1,0,Daylight,Weather - Clear,Dry,Entering Traffic
+2022,10,Peterbilt,579 Epiq,Tempe,AZ ,13.0,1,0,1,0,0,Daylight,Weather - Clear,Dry,Proceeding Straight
+2022,10,Peterbilt,579 Epiq,Tempe,AZ ,13.0,1,0,1,0,0,Daylight,Weather - Clear,Dry,Proceeding Straight
+2022,10,Ford,Escape,Austin,TX ,8.0,1,0,0,1,0,Daylight,Weather - Clear,Dry,Making Right Turn
+2022,10,Ford,Escape,Austin,TX ,13.0,0,0,1,0,0,Daylight,Weather - Clear,Dry,Proceeding Straight
+2022,9,Jaguar,I-Pace,San Francisco,CA ,6.0,1,0,0,1,0,Dawn / Dusk,Weather - Clear,Dry,Stopped
+2022,9,Jaguar,I-Pace,San Francisco,CA ,9.0,1,0,0,0,0,Daylight,Weather - Clear,Dry,Stopped
+2022,9,Jaguar,I-Pace,San Francisco,CA ,12.0,1,0,0,1,0,Daylight,Weather - Clear,Dry,Stopped
+2022,9,Peterbilt,579 Epiq,Huntsville,TX ,4.0,1,0,1,0,0,Dark - Not Lighted,Weather - Clear,Dry,Proceeding Straight
+2022,9,Peterbilt,579 Epiq,Huntsville,TX ,4.0,1,0,1,0,0,Dark - Not Lighted,Weather - Clear,Dry,Proceeding Straight
+2022,9,Jaguar,I-Pace,San Francisco,CA ,6.0,1,0,0,1,0,Dawn / Dusk,Weather - Clear,Dry,Stopped
+2022,9,Jaguar,I-Pace,San Francisco,CA ,9.0,1,0,0,0,0,Daylight,Weather - Clear,Dry,Stopped
+2022,9,Jaguar,I-Pace,San Francisco,CA ,12.0,1,0,0,1,0,Daylight,Weather - Clear,Dry,Stopped
+2022,9,Ford,Escape,Miami,FL ,10.0,0,1,0,1,0,Daylight,Weather - Clear,Dry,Stopped
+2022,8,Lexus,RX450H,Arlington,TX ,16.0,1,0,0,0,0,Daylight,Weather - Clear,Dry,Stopped
+2022,9,Cruise,AV,San Francisco,CA ,5.0,1,0,1,0,0,Dark - Lighted,Weather - Clear,Dry,"Other, see Narrative"
+2022,9,Ford,Escape,Miami,FL ,10.0,0,1,0,1,0,Daylight,Weather - Clear,Dry,Stopped
+2022,9,Cruise,AV,San Francisco,CA ,5.0,1,0,1,0,0,Dark - Lighted,Weather - Clear,Dry,"Other, see Narrative"
+2022,9,Toyota,Sienna,Sun City,AZ ,9.0,0,1,0,0,0,Daylight,Weather - Clear,Dry,Backing
+2022,9,Ford,Escape,Palo Alto,CA ,17.0,0,0,1,0,0,Daylight,Weather - Clear,Dry,Proceeding Straight
+2022,9,Ford,Escape,Palo Alto,CA ,17.0,0,0,1,0,0,Daylight,Weather - Clear,Dry,Proceeding Straight
+2022,9,Jaguar,I-Pace,Phoenix,AZ ,13.0,1,0,1,0,0,Daylight,Weather - Clear,Dry,Stopped
+2022,9,Jaguar,I-Pace,Phoenix,AZ ,13.0,1,0,1,0,0,Daylight,Weather - Clear,Dry,Stopped
+2022,8,Ligier,EZ10 Gen 3,Rochester,MN ,16.0,1,0,0,1,0,Daylight,Weather - Clear,Dry,Proceeding Straight
+2022,8,Jaguar,I-Pace,San Francisco,CA ,18.0,1,0,0,1,0,Daylight,Weather - Cloudy,Dry,Stopped
+2022,8,Peterbilt,579 Epiq,Ennis,TX ,18.0,0,1,0,1,0,Dawn / Dusk,Weather - Cloudy,Dry,Proceeding Straight
+2022,8,Jaguar,I-Pace,San Francisco,CA ,3.0,0,0,0,1,0,Dark - Lighted,Weather - Clear,Dry,Proceeding Straight
+2022,8,Jaguar,I-Pace,San Francisco,CA ,18.0,1,0,1,0,0,Daylight,Weather - Clear,Dry,Stopped
+2022,8,Kenworth,T680,Palmer,TX ,18.0,1,0,0,0,0,Daylight,Weather - Clear,Dry,Proceeding Straight
+2022,8,Jaguar,I-Pace,Tempe,AZ ,11.0,0,1,1,0,0,Daylight,Weather - Clear,Dry,Proceeding Straight
+2022,8,Jaguar,I-Pace,San Francisco,CA ,18.0,1,0,0,1,0,Daylight,Weather - Cloudy,Dry,Stopped
+2022,8,Peterbilt,579 Epiq,Ennis,TX ,18.0,0,1,0,1,0,Dawn / Dusk,Weather - Cloudy,Dry,Proceeding Straight
+2022,8,Jaguar,I-Pace,San Francisco,CA ,3.0,0,0,0,1,0,Dark - Lighted,Weather - Clear,Dry,Proceeding Straight
+2022,8,Jaguar,I-Pace,San Francisco,CA ,18.0,1,0,1,0,0,Daylight,Weather - Clear,Dry,Stopped
+2022,8,Jaguar,I-Pace,San Francisco,CA ,17.0,1,0,0,1,0,Daylight,Weather - Clear,Dry,Stopped
+2022,8,Chrysler,Pacifica,Chandler,AZ ,12.0,1,0,1,0,0,Daylight,Weather - Clear,Dry,Stopped
+2022,8,Jaguar,I-Pace,Tempe,AZ ,11.0,0,1,1,0,0,Daylight,Weather - Clear,Dry,Proceeding Straight
+2022,8,Ford,Escape,Miami,FL ,12.0,1,0,0,0,0,Daylight,Weather - Clear,Dry,Stopped
+2022,8,Ford,Escape,Miami Beach,FL ,17.0,1,0,0,0,0,Daylight,Weather - Clear,Dry,Stopped
+2022,8,Ford,Escape,Miami,FL ,12.0,1,0,0,0,0,Daylight,Weather - Clear,Dry,Stopped
+2022,8,Ford,Escape,Miami Beach,FL ,17.0,1,0,0,0,0,Daylight,Weather - Clear,Dry,Stopped
+2022,8,Cruise,AV,San Francisco,CA ,3.0,1,0,0,1,0,Dark - Lighted,Weather - Clear,Dry,Stopped
+2022,8,Cruise,AV,San Francisco,CA ,7.0,1,0,0,1,0,Daylight,Weather - Clear,Dry,"Other, see Narrative"
+2022,8,Toyota,Highlander,San Francisco,CA ,21.0,1,0,0,0,0,Dark - Lighted,Weather - Clear,Dry,Stopped
+2022,8,Cruise,AV,San Francisco,CA ,3.0,1,0,0,1,0,Dark - Lighted,Weather - Clear,Dry,Stopped
+2022,8,Cruise,AV,San Francisco,CA ,7.0,1,0,0,1,0,Daylight,Weather - Clear,Dry,"Other, see Narrative"
+2022,8,Kenworth Motor Truck Co,T680,Palmer,TX ,18.0,1,0,0,0,0,Daylight,Weather - Clear,Dry,Proceeding Straight
+2022,9,Cruise,AV,San Francisco,CA ,18.0,1,0,1,0,0,Daylight,Weather - Clear,Dry,Proceeding Straight
+2022,9,Cruise,AV,San Francisco,CA ,18.0,1,0,1,0,0,Daylight,Weather - Clear,Dry,Proceeding Straight
+2022,8,LExus,RX450H,Arlington,TX ,16.0,1,0,0,0,0,Daylight,Weather - Clear,Dry,Stopped
+2022,9,Toyota,Highlander,San Francisco,CA ,11.0,1,0,1,0,0,Daylight,Weather - Clear,Dry,"Other, see Narrative"
+2022,8,Toyota,Highlander,Las Vegas,CA ,21.0,0,1,1,0,0,Dark - Lighted,Weather - Clear,Dry,Proceeding Straight
+2022,8,Ligier Group,EZ10 Gen 3,Rochester,MN ,16.0,1,0,0,1,0,Daylight,Weather - Clear,Dry,Proceeding Straight
+2022,8,Kenworth Motor Truck Co,T680,Palmer,TX ,18.0,1,0,0,0,0,Daylight,Weather - Clear,Dry,Proceeding Straight
+2022,8,Jaguar,I-Pace,San Francisco,CA ,3.0,1,0,1,1,0,Dark - Lighted,Weather - Clear,Dry,Proceeding Straight
+2022,8,Jaguar,I-Pace,San Francisco,CA ,3.0,1,0,1,1,0,Dark - Lighted,Weather - Clear,Dry,Proceeding Straight
+2022,8,Ligier,EZ10 Gen 3,Rochester,MN ,16.0,1,0,0,1,0,Daylight,Weather - Clear,Dry,Proceeding Straight
+2022,7,Jaguar,I-Pace,San Francisco,CA ,6.0,1,0,1,0,0,Daylight,Weather - Clear,Dry,Stopped
+2022,7,Jaguar,I-Pace,San Francisco,CA ,23.0,0,1,0,1,0,Dark - Lighted,Weather - Clear,Dry,Proceeding Straight
+2022,7,Jaguar,I-Pace,San Francisco,CA ,2.0,0,1,0,1,0,Dark - Lighted,Weather - Clear,Dry,Making Left Turn
+2022,6,Jaguar,I-Pace,San Francisco,CA ,16.0,0,0,0,0,0,Daylight,Weather - Clear,Dry,"Other, see Narrative"
+2022,8,Chrysler,Pacifica,Tempe,AZ ,10.0,0,1,1,1,0,Daylight,Weather - Cloudy,Dry,Lane / Road Departure
+2022,6,Jaguar,I-Pace,San Francisco,CA ,16.0,0,0,0,0,0,Daylight,Weather - Clear,Dry,"Other, see Narrative"
+2022,7,Cruise,AV,San Francisco,CA ,22.0,1,0,1,0,0,Dark - Lighted,Weather - Clear,Dry,Proceeding Straight
+2022,7,Cruise,AV,San Francisco,CA ,1.0,0,0,0,1,0,Dark - Lighted,Weather - Clear,Dry,Proceeding Straight
+2022,7,Cruise,AV,San Francisco,CA ,2.0,1,0,1,0,0,Dark - Lighted,Weather - Clear,Dry,Stopped
+2022,7,Cruise,AV,San Francisco,CA ,0.0,0,0,0,0,0,Dark - Lighted,Weather - Rain,Wet,Stopped
+2022,8,Chrysler,Pacifica,Tempe,AZ ,10.0,0,1,1,1,0,Daylight,Weather - Cloudy,Dry,Lane / Road Departure
+2022,7,Jaguar,I-Pace,San Francisco,CA ,2.0,0,1,0,1,0,Dark - Lighted,Weather - Clear,Dry,Making Left Turn
+2022,5,Lexus,RX450H,Arlington,TX ,16.0,0,0,1,0,0,Daylight,Weather - Clear,Dry,Proceeding Straight
+2022,7,Cruise,AV,San Francisco,CA ,0.0,0,0,0,0,0,Dark - Lighted,Weather - Rain,Wet,Stopped
+2022,7,Cruise,AV,San Francisco,CA ,1.0,0,0,0,1,0,Dark - Lighted,Weather - Clear,Dry,Proceeding Straight
+2022,7,Cruise,AV,San Francisco,CA ,22.0,1,0,1,0,0,Dark - Lighted,Weather - Clear,Dry,Proceeding Straight
+2022,7,Cruise,AV,San Francisco,CA ,2.0,1,0,1,0,0,Dark - Lighted,Weather - Clear,Dry,Stopped
+2022,7,Jaguar,I-Pace,San Francisco,CA ,23.0,0,1,0,1,0,Dark - Lighted,Weather - Clear,Dry,Proceeding Straight
+2022,7,Jaguar,I-Pace,San Francisco,CA ,6.0,1,0,1,0,0,Daylight,Weather - Clear,Dry,Stopped
+2022,7,Freightliner,Cascadia,Santa Rosa,NM ,12.0,0,0,0,0,1,Daylight,Weather - Clear,Dry,Proceeding Straight
+2022,7,FREIGHTLINER,CASCADIA,Santa Rosa,NM ,12.0,0,0,0,0,1,Daylight,Weather - Clear,Dry,Proceeding Straight
+2022,7,Lucid,Dream,Belmont,CA ,3.0,1,1,0,1,0,Dark - Lighted,Weather - Clear,Dry,Lane / Road Departure
+2022,7,FREIGHTLINER,CASCADIA,ALBUQUERQUE,NM ,16.0,0,0,1,0,0,Daylight,Weather - Cloudy,Dry,Proceeding Straight
+2022,7,FREIGHTLINER,Cascadia,ALBUQUERQUE,NM ,16.0,0,0,1,0,0,Daylight,Weather - Cloudy,Dry,Proceeding Straight
+2022,7,Jaguar,I-Pace,Phoenix,AZ ,9.0,1,0,1,1,0,Daylight,Weather - Clear,Dry,Making Left Turn
+2022,7,Jaguar,I-Pace,Phoenix,AZ ,9.0,1,0,1,1,0,Daylight,Weather - Clear,Dry,Making Left Turn
+2022,6,Jaguar,I-Pace,San Francisco,CA ,10.0,0,1,0,0,0,Daylight,Weather - Rain,Wet,Stopped
+2022,6,Jaguar,I-Pace,San Francisco,CA ,7.0,1,0,1,1,0,Daylight,Weather - Clear,Dry,Stopped
+2022,6,Ford,Escape,Pittsburgh,PA ,13.0,0,1,0,0,0,Daylight,Weather - Clear,Dry,Stopped
+2022,6,Ford,Escape,Miami,FL ,14.0,1,0,0,0,0,Daylight,Weather - Rain,Wet,Making Right Turn
+2022,6,Jaguar,I-Pace,San Francisco,CA ,10.0,0,1,0,0,0,Daylight,Weather - Rain,Wet,Stopped
+2022,6,Jaguar,I-Pace,San Francisco,CA ,7.0,1,0,1,1,0,Daylight,Weather - Clear,Dry,Stopped
+2022,7,Jaguar,I-Pace,Tempe,AZ ,0.0,0,0,0,0,1,Dark - Lighted,Weather - Clear,Dry,Stopped
+2022,7,Jaguar,I-Pace,San Francisco,CA ,15.0,1,0,1,0,0,Daylight,Weather - Clear,Dry,Proceeding Straight
+2022,6,Lexus,RX 450h,Mountain View,CA ,15.0,1,0,0,0,0,Daylight,Weather - Clear,Dry,Making Right Turn
+2022,6,Ford,Escape,Pittsburgh,PA ,13.0,0,1,0,0,0,Daylight,Weather - Clear,Dry,Stopped
+2022,6,Ford,Escape,Miami,FL ,14.0,1,0,0,0,0,Daylight,Weather - Rain,Wet,Making Right Turn
+2022,6,Toyota,Highlander,San Francisco,CA ,14.0,0,0,0,1,0,Daylight,Weather - Clear,Dry,Proceeding Straight
+2022,6,Cruise,AV,San Francisco,CA ,10.0,1,0,0,1,0,Daylight,Weather - Clear,Dry,Proceeding Straight
+2022,6,Cruise,AV,San Francisco,CA ,10.0,1,0,0,1,0,Daylight,Weather - Clear,Dry,Proceeding Straight
+2022,6,Jaguar,I-Pace,San Francisco,CA ,12.0,0,0,0,0,1,Daylight,Weather - Clear,Dry,Proceeding Straight
+2022,6,Jaguar,I-Pace,San Francisco,CA ,12.0,0,0,0,0,1,Daylight,Weather - Clear,Dry,Proceeding Straight
+2021,7,Ford,Fusion,Washington DC,DC ,9.0,1,0,0,0,0,Daylight,Weather - Clear,Dry,Stopped
+2022,6,Ford,Escape,Austin,TX ,16.0,1,0,0,1,0,Daylight,Weather - Clear,Dry,Stopped
+2022,6,Ford,Escape,Austin,TX ,16.0,1,0,0,1,0,Daylight,Weather - Clear,Dry,Stopped
+2022,5,Jaguar,I-Pace,San Francisco,CA ,13.0,1,0,0,0,0,Daylight,Weather - Clear,Dry,Making Left Turn
+2022,5,Jaguar,I-Pace,San Francisco,CA ,9.0,1,0,0,1,0,Daylight,Weather - Clear,Dry,Making Right Turn
+2022,5,Jaguar,I-Pace,San Francisco,CA ,13.0,1,0,1,0,0,Daylight,Weather - Clear,Dry,Stopped
+2022,5,Jaguar,I-Pace,San Francisco,CA ,13.0,1,0,0,0,0,Daylight,Weather - Clear,Dry,Making Left Turn
+2022,5,Jaguar,I-Pace,San Francisco,CA ,9.0,1,0,0,1,0,Daylight,Weather - Clear,Dry,Making Right Turn
+2022,5,Jaguar,I-Pace,San Francisco,CA ,13.0,1,0,1,0,0,Daylight,Weather - Clear,Dry,Stopped
+2022,4,International,LT625,Tucson,AZ ,15.0,0,1,0,1,0,Daylight,Weather - Clear,Dry,Proceeding Straight
+2022,5,Ford,Escape,WDC,DC ,8.0,1,0,0,0,0,Daylight,Weather - Clear,Dry,Stopped
+2022,5,Hyundai,Ioniq 5,Las Vegas,NV ,12.0,0,1,0,1,0,Daylight,Weather - Clear,Dry,Proceeding Straight
+2022,5,Mercedes-Benz,S350D,Commerce,CA ,15.0,1,0,1,1,0,Daylight,Weather - Clear,Dry,"Other, see Narrative"
+2022,5,Ford,Escape,WDC,DC ,8.0,1,0,0,0,0,Daylight,Weather - Clear,Dry,Stopped
+2022,5,Hyundai,Kona EV,Irvine,CA ,15.0,0,0,0,0,0,Daylight,Weather - Clear,Dry,Proceeding Straight
+2022,5,Lexus,RX450H,Arlington,TX ,16.0,0,0,1,0,0,Daylight,Weather - Clear,Dry,Proceeding Straight
+2022,6,Cruise,AV,San Francisco,CA ,23.0,1,0,1,1,0,Dark - Lighted,Weather - Clear,Dry,Making Left Turn
+2022,6,Cruise,AV,San Francisco,CA ,23.0,1,0,1,1,0,Dark - Lighted,Weather - Clear,Dry,Making Left Turn
+2022,6,Cruise,AV,San Francisco,CA ,1.0,0,1,0,1,0,Dark - Lighted,Weather - Clear,Dry,"Other, see Narrative"
+2022,6,Cruise,AV,San Francisco,CA ,1.0,0,1,0,1,0,Dark - Lighted,Weather - Clear,Dry,"Other, see Narrative"
+2022,2,Cruise,AV,San Francisco,CA ,0.0,0,1,1,0,0,Dark - Lighted,Weather - Clear,Dry,Proceeding Straight
+2022,5,Cruise,AV,San Francisco,CA ,4.0,1,0,1,0,0,Dark - Lighted,Weather - Clear,Dry,Stopped
+2022,2,Cruise,AV,San Francisco,CA ,0.0,0,1,1,0,0,Dark - Lighted,Weather - Clear,Dry,Proceeding Straight
+2022,5,Cruise,AV,San Francisco,CA ,4.0,1,0,1,0,0,Dark - Lighted,Weather - Clear,Dry,Stopped
+2022,5,Jaguar,I-Pace,Phoenix,AZ ,2.0,1,0,0,1,0,Dark - Lighted,Weather - Clear,Dry,Stopped
+2022,5,Jaguar,I-Pace,San Francisco,CA ,1.0,1,0,0,1,0,Dark - Lighted,Weather - Clear,Dry,Stopped
+2022,5,Jaguar,I-Pace,Phoenix,AZ ,1.0,0,0,0,0,1,Dark - Lighted,Weather - Clear,Dry,Making Left Turn
+2022,5,Jaguar,I-Pace,Phoenix,AZ ,1.0,0,0,0,0,1,Dark - Lighted,Weather - Clear,Dry,Making Left Turn
+2022,5,Jaguar,I-PACE,San Francisco,CA ,1.0,1,0,0,1,0,Dark - Lighted,Weather - Clear,Dry,Stopped
+2022,5,Peterbilt,579 Epiq,Ennis,TX ,15.0,0,1,0,1,0,Daylight,Weather - Clear,Dry,Proceeding Straight
+2022,5,Peterbilt,579 Epiq,Ennis,TX ,15.0,0,1,0,1,0,Daylight,Weather - Clear,Dry,Proceeding Straight
+2022,4,Jaguar,I-Pace,San Francisco,CA ,6.0,0,1,0,1,0,Daylight,Weather - Clear,Dry,Proceeding Straight
+2022,4,Jaguar,I-Pace,Phoenix,AZ ,23.0,0,1,0,0,0,Dark - Lighted,Weather - Clear,Dry,Proceeding Straight
+2022,4,Jaguar,I-Pace,San Francisco,CA ,8.0,1,0,1,1,0,Daylight,Weather - Clear,Dry,Stopped
+2022,4,Toyota,Highlander,San Francisco,CA ,5.0,1,0,1,1,0,Daylight,Weather - Clear,Dry,Proceeding Straight
+2022,4,Hyundai,Kona EV,Miliptas,CA ,9.0,0,0,0,1,0,Daylight,Weather - Rain,Wet,Stopped
+2022,4,INTERNATIONAL,LT 625,Tucson,AZ ,15.0,0,1,0,1,0,Daylight,Weather - Clear,Dry,Proceeding Straight
+2022,4,Cruise,AV,San Francisco,CA ,23.0,0,0,0,1,0,Dark - Lighted,Weather - Clear,Dry,Proceeding Straight
+2022,4,Cruise,AV,San Francisco,CA ,0.0,1,0,1,1,0,Dark - Lighted,Weather - Clear,Dry,"Other, see Narrative"
+2022,4,Cruise,AV,San Francisco,CA ,3.0,1,0,0,1,0,Dark - Lighted,Weather - Clear,Dry,"Other, see Narrative"
+2022,4,Cruise,AV,San Francisco,CA ,0.0,0,1,1,0,0,Dark - Lighted,Weather - Clear,Dry,Proceeding Straight
+2022,4,Cruise,AV,San Francisco,CA ,1.0,1,0,1,0,0,Dark - Lighted,Weather - Clear,Dry,"Other, see Narrative"
+2022,4,Cruise,AV,San Francisco,CA ,3.0,1,0,0,1,0,Dark - Lighted,Weather - Clear,Dry,"Other, see Narrative"
+2022,4,Cruise,AV,San Francisco,CA ,0.0,1,0,1,1,0,Dark - Lighted,Weather - Clear,Dry,"Other, see Narrative"
+2022,4,Cruise,AV,San Francisco,CA ,23.0,1,0,0,1,0,Dark - Lighted,Weather - Clear,Dry,Proceeding Straight
+2022,4,Cruise,AV,San Francisco,CA ,1.0,1,0,1,0,0,Dark - Lighted,Weather - Clear,Dry,"Other, see Narrative"
+2022,4,Cruise,AV,San Francisco,CA ,0.0,0,1,1,0,0,Dark - Lighted,Weather - Clear,Dry,Proceeding Straight
+2022,4,Cruise,AV,San Francisco,CA ,23.0,0,1,1,1,0,Dark - Lighted,Weather - Clear,Dry,Stopped
+2022,4,Cruise,AV,San Francisco,CA ,23.0,0,1,1,1,0,Dark - Lighted,Weather - Clear,Dry,Stopped
+2022,4,Jaguar,I-Pace,San Francisco,CA ,16.0,1,0,1,0,0,Daylight,Weather - Clear,Dry,Stopped
+2022,4,Jaguar,I-Pace,San Francisco,CA ,16.0,1,0,1,0,0,Daylight,Weather - Clear,Dry,Stopped
+2022,4,Jaguar,I-Pace,San Francisco,CA ,2.0,0,0,0,0,1,Dark - Lighted,Weather - Clear,Dry,Making Left Turn
+2022,3,Cruise,AV,San Francisco,CA ,12.0,0,0,0,1,0,Daylight,Weather - Clear,Dry,Changing Lanes
+2022,4,Jaguar,I-Pace,San Francisco,CA ,14.0,1,0,1,1,0,Daylight,Weather - Clear,Dry,Proceeding Straight
+2022,3,Cruise,AV,San Francisco,CA ,12.0,0,0,0,1,0,Daylight,Weather - Clear,Dry,Changing Lanes
+2022,4,Jaguar,I-Pace,Phoenix,AZ ,18.0,1,0,0,0,0,Daylight,Weather - Clear,Dry,Making Right Turn
+2022,3,Jaguar,I-Pace,San Francisco,CA ,12.0,1,0,1,0,0,Daylight,Weather - Clear,Dry,Stopped
+2022,3,Jaguar,I-Pace,Phoenix,AZ ,18.0,1,0,1,1,0,Dark - Lighted,Weather - Clear,Dry,Stopped
+2022,3,Jaguar,I-Pace,San Francisco,CA ,7.0,1,0,1,0,0,Daylight,Weather - Clear,Dry,Proceeding Straight
+2022,4,Jaguar,I-Pace,San Francisco,CA ,19.0,1,0,1,1,0,Dawn / Dusk,Weather - Clear,Dry,Stopped
+2022,3,Ford,Fusion,Miami,FL ,12.0,1,0,0,0,0,Daylight,Weather - Cloudy,Wet,Stopped
+2022,3,Toyota,Highlander,San Francisco,CA ,8.0,1,0,1,1,0,Daylight,Weather - Clear,Dry,Stopped
+2022,3,Hyundai,Kona EV,Tustin,CA ,11.0,0,1,1,0,0,Daylight,Weather - Rain,Wet,Proceeding Straight
+2022,3,Ford,Fusion,Miami,FL ,12.0,1,0,0,0,0,Daylight,Weather - Cloudy,Wet,Stopped
+2022,4,Jeep,Grand Cherokee,Saint Clair,MI ,3.0,0,1,1,1,0,Dark - Unknown Lighting,Weather - Clear,Dry,Unknown
+2022,3,Jaguar,I-Pace,San Francisco,CA ,11.0,1,0,1,1,0,Daylight,Weather - Clear,Dry,Proceeding Straight
+2022,4,Jaguar,I-Pace,San Francisco,CA ,2.0,0,1,0,0,0,Dark - Lighted,Weather - Clear,Dry,Proceeding Straight
+2022,3,Cruise,AV,San Francisco,CA ,2.0,0,1,0,0,0,Dark - Lighted,Weather - Clear,Dry,Stopped
+2022,3,Jaguar,I-Pace,Phoenix,AZ ,14.0,0,1,0,1,0,Daylight,Weather - Cloudy,Dry,Stopped
+2022,3,Cruise,AV,San Francisco,CA ,2.0,0,1,0,0,0,Dark - Lighted,Weather - Clear,Dry,Stopped
+2022,3,Cruise,AV,San Francisco,CA ,13.0,1,0,0,0,0,Daylight,Weather - Cloudy,Dry,Proceeding Straight
+2022,3,Cruise,AV,San Francisco,CA ,13.0,1,0,0,0,0,Daylight,Weather - Cloudy,Dry,Proceeding Straight
+2022,3,Toyota,Highlander,San Francisco,CA ,15.0,1,0,1,0,0,Daylight,Weather - Clear,Dry,Proceeding Straight
+2022,3,Ford,Escape,Coral Gables,FL ,12.0,1,0,0,0,0,Daylight,Weather - Clear,Dry,Stopped
+2022,3,Mercedes-Benz,EQS 450 4Matic,Los Angeles,CA ,8.0,0,1,0,0,0,Daylight,Weather - Clear,Dry,"Other, see Narrative"
+2022,3,Ford,Escape,Coral Gables,FL ,12.0,1,0,0,0,0,Daylight,Weather - Clear,Dry,Stopped
+2022,3,Jaguar,I-Pace,Phoenix,AZ ,21.0,1,0,1,1,0,Dark - Lighted,Weather - Clear,Dry,Stopped
+2022,2,Jaguar,I-Pace,San Francisco,CA ,13.0,1,0,0,0,0,Daylight,Weather - Clear,Dry,Proceeding Straight
+2022,2,Jaguar,I-Pace,San Francisco,CA ,0.0,1,0,1,0,0,Dark - Lighted,Weather - Clear,Dry,Stopped
+2022,2,Jaguar,I-Pace,San Francisco,CA ,19.0,1,0,1,0,0,Dark - Lighted,Weather - Clear,Dry,Stopped
+2022,2,Jaguar,I-Pace,San Francisco,CA ,15.0,1,0,1,0,0,Daylight,Weather - Clear,Dry,Stopped
+2022,2,Jaguar,I-Pace,San Francisco,CA ,15.0,1,0,0,1,0,Daylight,Weather - Clear,Dry,Stopped
+2022,2,Jaguar,I-Pace,San Francisco,CA ,8.0,1,0,0,1,0,Daylight,Weather - Clear,Dry,Stopped
+2022,2,Ford,Fusion,Washington DC,DC ,8.0,1,0,0,0,0,Daylight,Weather - Cloudy,Dry,Stopped
+2022,2,Toyota,Highlander,San Francisco,CA ,20.0,1,0,0,0,0,Dark - Lighted,Weather - Clear,Dry,Stopped
+2022,2,Ford,Fusion,Washington DC,DC ,8.0,1,0,0,0,0,Daylight,Weather - Cloudy,Dry,Stopped
+2022,2,Peterbilt,579 Epiq,Sacaton,AZ ,10.0,1,0,0,1,0,Daylight,Weather - Clear,Dry,Proceeding Straight
+2022,2,Jaguar,I-Pace,San Francisco,CA ,17.0,1,0,0,1,0,Dawn / Dusk,Weather - Clear,Dry,Proceeding Straight
+2022,1,Jaguar,I-Pace,San Francisco,CA ,2.0,0,0,0,1,0,Dark - Lighted,Weather - Clear,Dry,Proceeding Straight
+2022,1,Jaguar,I-Pace,San Francisco,CA ,6.0,1,0,1,0,0,Dark - Lighted,Weather - Clear,Dry,Proceeding Straight
+2022,1,Jaguar,I-Pace,San Francisco,CA ,14.0,1,0,1,0,0,Daylight,Weather - Clear,Dry,Stopped
+2022,1,Jaguar,I-Pace,San Francisco,CA ,9.0,1,0,1,0,0,Daylight,Weather - Clear,Dry,Stopped
+2022,1,Toyota,Highlander,San Francisco,CA ,8.0,1,0,0,0,0,Daylight,Weather - Clear,Dry,Stopped
+2022,1,Cruise,AV,San Francisco,CA ,13.0,1,0,1,0,0,Daylight,Weather - Clear,Dry,Proceeding Straight
+2022,1,Cruise,AV,San Francisco,CA ,13.0,1,0,1,0,0,Daylight,Weather - Clear,Dry,Proceeding Straight
+2022,2,Peterbilt,579 Epiq,Sacaton,AZ ,10.0,1,0,0,1,0,Daylight,Weather - Clear,Dry,Proceeding Straight
+2022,2,Jaguar,I-Pace,San Francisco,CA ,17.0,1,0,0,1,0,Dawn / Dusk,Weather - Clear,Dry,Proceeding Straight
+2022,1,Jaguar,I-Pace,San Francisco,CA ,20.0,1,0,0,1,0,Dark - Lighted,Weather - Clear,Dry,Proceeding Straight
+2022,1,Ford,Escape,Miami,FL ,12.0,1,0,0,0,0,Daylight,Weather - Clear,Dry,Making Right Turn
+2022,1,Ford,Escape,Miami,FL ,12.0,1,0,0,0,0,Daylight,Weather - Clear,Dry,Making Right Turn
+2022,1,Cruise,AV,San Francisco,CA ,3.0,0,1,1,0,0,Dark - Lighted,Weather - Clear,Dry,Proceeding Straight
+2022,1,Cruise,AV,San Francisco,CA ,3.0,0,1,1,0,0,Dark - Lighted,Weather - Clear,Dry,Proceeding Straight
+2022,1,Jaguar,I-Pace,San Francisco,CA ,2.0,1,0,0,1,0,Dark - Lighted,Weather - Clear,Dry,Proceeding Straight
+2022,1,Jaguar,I-Pace,San Francisco,CA ,20.0,1,0,0,1,0,Dark - Lighted,Weather - Clear,Dry,Stopped
+2022,1,Jaguar,I-Pace,San Francisco,CA ,17.0,0,1,1,1,0,Dawn / Dusk,Weather - Clear,Dry,Proceeding Straight
+2022,1,Jaguar,I-Pace,San Francisco,CA ,17.0,0,1,1,1,0,Dawn / Dusk,Weather - Clear,Dry,Proceeding Straight
+2022,1,Jaguar,I-Pace,San Francisco,CA ,2.0,1,0,0,1,0,Dark - Lighted,Weather - Clear,Dry,Proceeding Straight
+2022,1,Jaguar,I-Pace,San Francisco,CA ,17.0,0,1,1,1,0,Dawn / Dusk,Weather - Clear,Dry,Proceeding Straight
+2021,12,Jaguar,I-Pace,San Francisco,CA ,12.0,1,0,1,0,0,Daylight,Weather - Cloudy,Dry,Stopped
+2021,12,Jaguar,I-Pace,San Francisco,CA ,10.0,1,0,0,0,0,Daylight,Weather - Clear,Dry,Stopped
+2021,12,Toyota,Highlander,Las Vegas,NV ,22.0,0,1,1,0,0,Dark - Lighted,Weather - Cloudy,Wet,Proceeding Straight
+2021,12,Jaguar,I-Pace,San Francisco,CA ,10.0,1,0,0,0,0,Daylight,Weather - Clear,Dry,Stopped
+2021,12,Jaguar,I-Pace,San Francisco,CA ,12.0,1,0,1,0,0,Daylight,Weather - Cloudy,Dry,Stopped
+2021,12,Cruise,AV,San Francisco,CA ,16.0,1,0,0,1,0,Daylight,Weather - Clear,Dry,Stopped
+2021,11,Cruise,AV,San Francisco,CA ,7.0,1,0,0,0,0,Daylight,Weather - Clear,Dry,Stopped
+2021,12,Cruise,AV,San Francisco,CA ,17.0,1,0,1,0,0,Dark - Lighted,Weather - Clear,Dry,Stopped
+2021,12,Cruise,AV,San Francisco,CA ,18.0,0,1,0,1,0,Dark - Lighted,Weather - Rain,Wet,Proceeding Straight
+2021,11,Cruise,AV,San Francisco,CA ,7.0,1,0,0,0,0,Daylight,Weather - Clear,Dry,Stopped
+2021,12,Cruise,AV,San Francisco,CA ,17.0,1,0,1,0,0,Dark - Lighted,Weather - Clear,Dry,Stopped
+2021,12,Cruise,AV,San Francisco,CA ,16.0,1,0,0,1,0,Daylight,Weather - Clear,Dry,Stopped
+2021,12,Cruise,AV,San Francisco,CA ,18.0,0,1,0,1,0,Dark - Lighted,Weather - Rain,Wet,Proceeding Straight
+2021,12,Jaguar,I-Pace,San Francisco,CA ,10.0,1,0,1,0,0,Daylight,Weather - Clear,Dry,Stopped
+2021,12,Jaguar,I-Pace,San Francisco,CA ,10.0,1,0,1,0,0,Dark - Lighted,Weather - Clear,Dry,Stopped
+2021,12,Jaguar,I-Pace,San Francisco,CA ,10.0,1,0,1,0,0,Daylight,Weather - Clear,Dry,Stopped
+2021,11,Jaguar,I-Pace,San Francisco,CA ,1.0,0,1,0,1,0,Dark - Lighted,Weather - Clear,Dry,Stopped
+2021,11,Jaguar,I-Pace,San Francisco,CA ,13.0,1,0,0,1,0,Daylight,Weather - Clear,Dry,Stopped
+2021,11,Jaguar,I-Pace,San Francisco,CA ,11.0,1,0,0,1,0,Daylight,Weather - Clear,Dry,Stopped
+2021,11,Chrysler,Pacifica,Chandler,AZ ,18.0,1,0,0,0,0,Dark - Lighted,Weather - Clear,Dry,Stopped
+2021,10,Hyundai,Kona EV,Fremont,CA ,10.0,0,1,0,0,1,Daylight,Weather - Clear,Dry,Changing Lanes
+2021,11,Chrysler,Pacifica,Chandler,AZ ,18.0,1,0,0,0,0,Dark - Lighted,Weather - Clear,Dry,Stopped
+2021,11,Jaguar,I-Pace,San Francisco,CA ,11.0,1,0,0,1,0,Daylight,Weather - Clear,Dry,Stopped
+2021,11,Jaguar,I-Pace,San Francisco,CA ,13.0,1,0,0,1,0,Daylight,Weather - Clear,Dry,Stopped
+2021,11,Jaguar,I-Pace,San Francisco,CA ,1.0,0,1,0,1,0,Dark - Lighted,Weather - Clear,Dry,Stopped
+2021,11,Jaguar,I-Pace,San Francisco,CA ,18.0,1,0,0,1,0,Dark - Lighted,Weather - Clear,Dry,Stopped
+2021,12,Jaguar,I-Pace,San Francisco,CA ,16.0,0,1,0,1,0,Daylight,Weather - Cloudy,Dry,Proceeding Straight
+2021,11,Chevrolet,Bolt,San Francisco,CA ,15.0,1,0,0,1,0,Daylight,Weather - Clear,Dry,Proceeding Straight
+2021,11,Jaguar,I-Pace,San Francisco,CA ,18.0,1,0,0,1,0,Dark - Lighted,Weather - Clear,Dry,Stopped
+2021,11,Jaguar,I-Pace,San Francisco,CA ,20.0,1,0,0,1,0,Dark - Lighted,Weather - Clear,Dry,Stopped
+2021,11,Jaguar,I-Pace,Phoenix,AZ ,0.0,1,0,1,1,0,Daylight,Weather - Clear,Dry,Stopped
+2021,11,Jaguar,I-Pace,Phoenix,AZ ,0.0,1,0,1,1,0,Dark - Lighted,Weather - Clear,Dry,Stopped
+2021,11,Jaguar,I-Pace,San Francisco,CA ,20.0,1,0,0,1,0,Dark - Lighted,Weather - Clear,Dry,Stopped
+2021,11,Jaguar,I-Pace,San Francisco,CA ,20.0,1,0,0,1,0,Dark - Lighted,Weather - Clear,Dry,Stopped
+2021,11,Jaguar,I-Pace,San Francisco,CA ,18.0,1,0,0,1,0,Dark - Lighted,Weather - Clear,Dry,Stopped
+2021,11,Jaguar,I-Pace,San Francisco,CA ,2.0,1,0,1,1,0,Dark - Lighted,Weather - Clear,Dry,Stopped
+2021,11,Jaguar,I-Pace,Phoenix,AZ ,0.0,1,0,1,1,0,Dark - Lighted,Weather - Clear,Dry,Stopped
+2021,11,Chevrolet,Bolt,San Francisco,CA ,16.0,0,1,1,0,0,Daylight,Weather - Clear,Dry,Proceeding Straight
+2021,11,Jaguar,I-Pace,San Francisco,CA ,16.0,1,0,0,1,0,Daylight,Weather - Cloudy,Dry,Stopped
+2021,11,Jaguar,I-Pace,San Francisco,CA ,16.0,1,0,0,1,0,Daylight,Weather - Cloudy,Dry,Stopped
+2021,10,Jaguar,I-Pace,San Francisco,CA ,21.0,0,1,0,0,0,Dark - Lighted,Weather - Clear,Dry,Making Left Turn
+2021,10,Jaguar,I-Pace,San Francisco,CA ,12.0,0,1,1,0,0,Daylight,Weather - Clear,Dry,Changing Lanes
+2021,10,Jaguar,I-Pace,San Francisco,CA ,12.0,1,0,0,0,0,Daylight,Weather - Clear,Dry,Proceeding Straight
+2021,10,Jaguar,I-Pace,San Francisco,CA ,18.0,0,1,1,0,0,Dawn / Dusk,Weather - Clear,Dry,Stopped
+2021,10,Chrysler,Pacifica,Mesa,AZ ,13.0,1,0,1,0,0,Daylight,Weather - Clear,Dry,Parked
+2021,10,Jaguar,I-Pace,San Francisco,CA ,12.0,1,0,0,0,0,Daylight,Weather - Clear,Dry,Proceeding Straight
+2021,10,Toyota,Highlander,San Francisco,CA ,15.0,0,1,0,1,0,Daylight,Weather - Cloudy,Unknown,Proceeding Straight
+2021,10,Jaguar,I-Pace,San Francisco,CA ,21.0,0,1,0,0,0,Dark - Lighted,Weather - Clear,Dry,Making Left Turn
+2021,10,Jaguar,I-Pace,San Francisco,CA ,12.0,0,1,1,0,0,Daylight,Weather - Clear,Dry,Changing Lanes
+2021,10,Jaguar,I-Pace,San Francisco,CA ,18.0,0,1,1,0,0,Dawn / Dusk,Weather - Clear,Dry,Stopped
+2021,10,Chevrolet,Bolt,San Francisco,CA ,1.0,0,1,0,0,0,Dark - Lighted,Weather - Clear,Dry,Stopped
+2021,10,Ford,Escape,Palo Alto,CA ,14.0,1,0,0,1,0,Daylight,Weather - Cloudy,Dry,Making Right Turn
+2021,10,EZ10,GEN2,Golden,CO ,8.0,1,0,1,1,0,Daylight,Weather - Clear,Dry,Stopped
+2021,10,EZ10,GEN2,Golden,CO ,15.0,0,0,0,0,0,Daylight,Weather - Clear,Dry,Stopped
+2021,11,Nissan,Leaf SL,San Jose,CA ,15.0,1,0,0,0,0,Daylight,Weather - Clear,Dry,Stopped
+2021,10,Ford,Escape,Palo Alto,CA ,14.0,1,0,0,1,0,Daylight,Weather - Cloudy,Dry,Making Right Turn
+2021,10,Hyundai,Kona/EV,Fremont,CA ,10.0,0,1,0,0,1,Daylight,Weather - Clear,Dry,Changing Lanes
+2021,10,EZ10,GEN2,Golden,CO ,15.0,0,0,0,0,0,Daylight,Weather - Clear,Dry,Stopped
+2021,10,EZ10,GEN2,Golden,CO ,8.0,1,0,1,1,0,Daylight,Weather - Clear,Dry,Stopped
+2021,11,Jaguar,I-Pace,San Francisco,CA ,16.0,1,0,0,1,0,Daylight,Weather - Cloudy,Dry,Stopped
+2021,10,Chrysler,Pacifica,Chandler,AZ ,14.0,0,1,0,1,0,Daylight,Weather - Clear,Dry,Proceeding Straight
+2021,10,Chrysler,Pacifica,Chandler,AZ ,14.0,0,1,0,1,0,Daylight,Weather - Clear,Dry,Proceeding Straight
+2021,9,Jaguar,I-Pace,San Francisco,CA ,11.0,1,0,1,0,0,Daylight,Weather - Clear,Dry,Stopped
+2021,9,Chrysler,Pacifica,Tempe,AZ ,1.0,0,0,0,1,0,Dark - Lighted,Weather - Clear,Dry,Stopped
+2021,9,Jaguar,I-Pace,San Francisco,CA ,12.0,0,1,0,1,0,Daylight,Weather - Clear,Dry,Stopped
+2021,9,Jaguar,I-Pace,Sann Francisco,CA ,17.0,0,1,0,1,0,Daylight,Weather - Clear,Dry,Making Left Turn
+2021,9,Jaguar,I-Pace,San Francisco,CA ,1.0,1,0,1,0,0,Dark - Not Lighted,Weather - Clear,Dry,Backing
+2021,9,Chrysler,Pacifica,Tempe,AZ ,13.0,1,0,0,1,0,Daylight,Weather - Clear,Dry,Stopped
+2021,9,Chrysler,Pacifica,Tempe,AZ ,1.0,0,0,0,1,0,Dark - Lighted,Weather - Clear,Dry,Stopped
+2021,9,Jaguar,I-Pace,San Francisco,CA ,11.0,1,0,1,0,0,Daylight,Weather - Clear,Dry,Stopped
+2021,9,Jaguar,I-Pace,San Francisco,CA ,12.0,0,1,0,1,0,Daylight,Weather - Clear,Dry,Stopped
+2021,9,Jaguar,I-Pace,San Francisco,CA ,17.0,0,1,0,1,0,Daylight,Weather - Clear,Dry,Making Left Turn
+2021,9,Jaguar,I-Pace,San Francisco,CA ,1.0,1,0,1,0,0,Dark - Not Lighted,Weather - Clear,Dry,Backing
+2021,9,Lexus,RX 450h,Sunnyvale,CA ,10.0,0,0,1,0,0,Daylight,Weather - Cloudy,Dry,Making Right Turn
+2021,9,Toyota,Highlander,San Francisco,CA ,15.0,1,1,1,0,0,Daylight,Weather - Clear,Dry,Stopped
+2021,10,Jaguar,I-Pace,San Francisco,CA ,15.0,1,0,0,0,0,Daylight,Weather - Clear,Dry,Stopped
+2021,10,Jaguar,I-Pace,San Francisco,CA ,15.0,1,0,0,0,0,Daylight,Weather - Clear,Dry,Stopped
+2021,10,Jaguar,I-Pace,San Francisco,CA ,15.0,1,0,0,0,0,Daylight,Weather - Clear,Dry,Stopped
+2021,8,Jaguar,I-Pace,San Francisco,CA ,7.0,0,1,0,1,0,Daylight,Weather - Clear,Dry,Entering Traffic
+2021,8,Jaguar,I-Pace,San Francisco,CA ,16.0,1,0,1,1,0,Daylight,Weather - Clear,Snow / Slush / Ice,Stopped
+2021,8,Jaguar,I-Pace,San Francisco,CA ,8.0,0,0,0,0,1,Daylight,Weather - Cloudy,Dry,Proceeding Straight
+2021,8,Jaguar,I-Pace,San Francisco,CA ,17.0,1,0,1,0,0,Daylight,Weather - Clear,Dry,Backing
+2021,8,Jaguar,I-Pace,San Francisco,CA ,16.0,1,0,0,1,0,Daylight,Weather - Clear,Dry,Proceeding Straight
+2021,9,NAVYA,Arma ,Orlando,FL ,16.0,0,0,0,0,1,Daylight,Weather - Clear,Dry,Proceeding Straight
+2021,8,Local Motors,Olli 1.0,Mammoth,WY ,17.0,0,1,1,0,0,Daylight,Weather - Clear,Dry,Proceeding Straight
+2021,8,Jaguar,I-Pace,San Francisco,CA ,7.0,0,1,0,1,0,Daylight,Weather - Clear,Dry,Entering Traffic
+2021,8,Jaguar,I-Pace,San Francisco,CA ,8.0,0,0,0,0,1,Daylight,Weather - Cloudy,Dry,Proceeding Straight
+2021,8,Jaguar,I-Pace,San Francisco,CA ,16.0,1,0,1,1,0,Daylight,Weather - Clear,Dry,Stopped
+2021,8,Chevrolet,Bolt,San Francisco,CA ,12.0,1,0,0,1,0,Daylight,Weather - Clear,Dry,Proceeding Straight
+2021,8,Ford,Fusion,Miami,FL ,8.0,0,1,1,0,0,Daylight,Weather - Clear,Dry,Stopped
+2021,8,Local Motors,Olli,Yellowstone National Park,WY ,20.0,0,1,1,0,1,Daylight,Weather - Clear,Dry,Proceeding Straight
+2021,9,Toyota,Highlander,San Francisco,CA ,8.0,0,1,0,1,0,Dark - Lighted,Weather - Clear,Dry,Making Right Turn
+2021,8,Lexus,RX450H,Indianapolis,IN ,11.0,0,1,1,0,0,Daylight,Weather - Clear,Dry,Making Right Turn
+2021,9,Chrysler,Pacifica,Tempe,AZ ,13.0,1,0,0,1,0,Daylight,Weather - Clear,Dry,Stopped
+2021,9,Ford,Fusion,Miami Beach,FL ,13.0,0,1,0,1,0,Daylight,Weather - Clear,Dry,Proceeding Straight
+2021,9,Ford,Fusion,Miami Beach,FL ,13.0,0,1,0,1,0,Daylight,Weather - Clear,Dry,Proceeding Straight
+2021,8,Jaguar,I-Pace,San Francisco,CA ,17.0,1,0,1,0,0,Daylight,Weather - Clear,Dry,Backing
+2021,8,Lexus,RX450H,Ann Arbor,MI ,11.0,1,1,1,0,0,Daylight,Weather - Clear,Dry,Proceeding Straight
+2021,8,Lexus,RX450H,Indianapolis,IN ,11.0,0,1,1,0,0,Daylight,Weather - Clear,Dry,Making Right Turn
+2021,8,Chevrolet,Bolt,San Francisco,CA ,23.0,0,1,0,0,0,Dark - Lighted,Weather - Clear,Dry,Proceeding Straight
+2021,9,Chrysler,Pacifica,Tempe,AZ ,13.0,1,0,0,1,0,Daylight,Weather - Clear,Dry,Stopped
+2021,8,Jaguar,I-Pace,San Francisco,CA ,17.0,1,0,1,0,0,Daylight,Weather - Clear,Dry,Backing
+2021,7,Lexus,RX450H,Indianapolis,IN ,16.0,0,1,1,1,0,Daylight,Weather - Clear,Dry,Proceeding Straight
+2021,8,Toyota,Highlander,Las Vegas,NV ,22.0,0,1,1,0,1,Dark - Lighted,Weather - Clear,Dry,Making Right Turn
+2021,7,Toyota,Highlander,Las Vegas,NV ,23.0,1,0,0,0,1,Dark - Lighted,Weather - Clear,Dry,Proceeding Straight
+2021,7,Chevrolet,Bolt,San Francisco,CA ,21.0,1,0,0,1,0,Dark - Lighted,Weather - Clear,Dry,Stopped
+2021,7,Toyota,Highlander,Las Vegas,NV ,8.0,1,0,0,1,1,Daylight,Weather - Clear,Dry,Making Right Turn
+2021,7,Jaguar,I-Pace,San Francisco,CA ,16.0,1,0,1,1,0,Daylight,Weather - Clear,Dry,Proceeding Straight
+2021,7,Chrysler,Pacifica,San Francisco,CA ,15.0,1,0,1,0,0,Daylight,Weather - Cloudy,Dry,Making Left Turn
+2021,7,Ford,Fusion,Miami,FL ,9.0,1,0,0,1,0,Daylight,Weather - Clear,Dry,Proceeding Straight
+2021,7,Ford,Fusion,Austin,TX ,16.0,1,0,1,0,0,Daylight,Weather - Clear,Dry,Stopped
+2021,7,Lexus,RX450H,Indianapolis,IN ,16.0,0,1,1,1,0,Daylight,Weather - Clear,Dry,Proceeding Straight
+2021,7,Lincoln,MKZ,San Jose,CA ,11.0,1,0,1,0,0,Daylight,Weather - Clear,Dry,Proceeding Straight
+2021,7,Ford,Fusion,Washington DC,DC ,9.0,1,0,0,0,0,Daylight,Weather - Clear,Dry,Stopped
+2021,8,Jaguar,I-Pace,San Francisco,CA ,16.0,1,0,0,1,0,Daylight,Weather - Clear,Dry,Proceeding Straight
+2021,7,Cruise,AV,San Francisco,CA ,13.0,1,0,1,0,0,Daylight,Weather - Clear,Dry,Making Left Turn
+2021,7,Jaguar,I-Pace,San Francisco,CA ,16.0,1,0,1,1,0,Daylight,Weather - Clear,Dry,Proceeding Straight
+2021,7,Chrysler,Pacifica,San Francisco,CA ,15.0,1,0,1,0,0,Daylight,Weather - Cloudy,Dry,Making Left Turn
+2019,9,Toyota,Prius,"SB, 101 US Freeway, Old Middlefield Rd x Shorline Mountain View",CA,10.0,1,0,0,0,0,Daylight,Clear,Wet,Stopped
+2023,6,Chrysler,Pacifica,San Francisco,CA,15.0,0,0,0,0,0,Daylight,Clear,Dry,Proceeding Straight
+2023,6,Lincoln,MKZ Hybrid,San Francisco,CA,12.0,0,0,1,0,0,Daylight,Clear,Dry,Xing into opposing lane
+2023,2,Lexus,RX 450h,Sunnyvale,CA,10.0,0,0,1,0,0,Daylight,Clear,Dry,Making U turn
+2023,5,Lexus,RX 450h,Santa Clara,CA,16.0,1,0,0,0,0,Daylight,Clear,Dry,Stopped
+2018,8,Lexus,RX 450h,Sunnyvale,CA,14.0,1,0,0,0,0,Daylight,Clear,Dry,Proceeding Straight
+2023,9,Lexus,RX 450h,Emeryville,CA,11.0,1,0,0,0,0,Daylight,Clear,Dry,Stopped
+2021,9,Lexus,RX 450h,Sunnyvale,CA,10.0,0,0,1,0,0,Daylight,Cloudy,Dry,Making Right Turn
+2023,9,Lexus,RX 450h,San Jose,CA,14.0,0,1,0,0,0,Daylight,Cloudy,Dry,Proceeding Straight
+2018,10,Lexus,RX 450h,Sunnyvale,CA,22.0,0,0,1,0,0,Daylight,Clear,Dry,Proceeding Straight
+2022,12,Lexus,RX 450h,Sunnyvale,CA,12.0,1,0,0,0,0,Daylight,Clear,Dry,Slowing/Stopping
+2022,12,Lexus,RX 450h,Belmont,CA,12.0,0,1,0,0,0,Daylight,Clear,Dry,Proceeding Straight
+2019,9,Lexus,RX 450h,Sunnyvale,CA,7.0,0,1,0,0,0,Daylight,Clear,Dry,Stopped
+2018,6,Lincoln,MKZ,Palo Alto,CA,13.0,1,0,1,0,0,Daylight,Clear,Dry,Slowing/Stopping
+2018,11,Lincoln,MKZ,Palo Alto,CA,15.0,1,0,0,0,0,Daylight,Clear,Dry,Proceeding Straight
+2019,1,Lincoln,MKZ,San Francisco,CA,14.0,1,0,1,0,0,Daylight,Clear,Dry,Stopped
+2020,1,Lincoln,MKZ,Santa Clara,CA,11.0,0,0,0,0,0,Daylight,Clear,Slippery,Stopped
+2023,8,Navya,ARMA,San Francisco,CA,17.0,0,1,0,0,0,Daylight,Clear,Dry,Proceeding Straight
+2019,12,Toyota,Highlander,San Francisco,CA,9.0,0,1,1,0,0,Daylight,Cloudy,Dry,Proceeding Straight
+2019,12,Toyota,Highlander,San Francisco,CA,9.0,1,0,0,1,0,Daylight,Cloudy,Dry,Making Right Turn
+2020,1,Toyota,Highlander,San Francisco,CA,9.0,0,0,0,0,0,Dark w Street-lights,Clear,Dry,Stopped
+2020,1,Toyota,Highlander,San Francisco,CA,18.0,1,0,0,0,0,Daylight,Cloudy,Dry,Proceeding Straight
+2020,1,Toyota,Highlander,San Francisco,CA,15.0,1,0,0,0,0,Daylight,Clear,Dry,Proceeding Straight
+2020,1,Toyota,Highlander,San Francisco,CA,8.0,1,0,0,0,0,Daylight,Clear,Dry,Stopped
+2019,7,Toyota,Highlander,San Francisco,CA,20.0,0,0,0,1,0,Dark w Street-lights,Clear,Dry,Stopped
+2019,6,Toyota,Highlander,San Francisco,CA,11.0,0,0,0,0,0,Daylight,Clear,Dry,Slowing/Stopping
+2019,6,Toyota,Highlander,San Francisco,CA,11.0,0,0,0,0,0,Daylight,Cloudy,Dry,Proceeding Straight
+2019,11,Toyota,Highlander,San Francisco,CA,23.0,0,1,0,0,0,Dark w Street-lights,Clear,Dry,Making Left Turn
+2019,10,Toyota,Highlander,San Francisco,CA,12.0,1,0,0,0,0,Daylight,Clear,Dry,Proceeding Straight
+2019,10,Toyota,Highlander,San Francisco,CA,14.0,1,0,0,0,0,Daylight,Clear,Dry,Stopped
+2023,1,Cruise,AV,San Francisco,CA,18.0,0,0,0,1,0,Dark w Street-lights,Clear,Dry,Proceeding Straight
+2023,3,Cruise,AV,San Francisco,CA,4.0,1,0,0,1,0,Dark w Street-lights,Clear,Dry,Stopped
+2023,3,Cruise,AV,San Francisco,CA,1.0,0,1,0,1,0,Dark w Street-lights,Clear,Dry,Making Left Turn
+2023,3,Cruise,AV,San Francisco,CA,3.0,0,1,1,0,1,Dark w Street-lights,Clear,Dry,Proceeding Straight
+2023,3,Cruise,AV,San Francisco,CA,21.0,0,0,0,1,0,Dark w Street-lights,Raining,Wet,Proceeding Straight
+2023,3,Cruise,AV,San Francisco,CA,17.0,0,0,0,0,0,Daylight,Cloudy,Wet,Proceeding Straight
+2023,3,Cruise,AV,San Francisco,CA,4.0,0,1,1,1,0,Dark w Street-lights,Raining,Wet,Proceeding Straight
+2023,3,Cruise,AV,San Francisco,CA,3.0,0,1,1,0,0,Dark w Street-lights,Raining,Wet,Proceeding Straight
+2023,3,Cruise,AV,San Francisco,CA,23.0,0,0,0,0,0,Dark w Street-lights,Clear,Dry,Stopped
+2023,3,Cruise,AV,San Francisco,CA,14.0,0,1,1,1,1,Daylight,Clear,Dry,Proceeding Straight
+2023,4,Cruise,AV,San Francisco,CA,4.0,0,0,0,1,0,Dark w Street-lights,Clear,Dry,Proceeding Straight
+2023,4,Cruise,AV,San Francisco,CA,20.0,0,1,0,1,0,Dark w Street-lights,Clear,Dry,Stopped
+2023,4,Cruise,AV,San Francisco,CA,20.0,0,0,0,1,0,Dark w Street-lights,Clear,Dry,Stopped
+2023,4,Cruise,AV,San Francisco,CA,21.0,1,0,0,0,0,Dark w Street-lights,Clear,Dry,Making Right Turn
+2023,5,Cruise,AV,San Francisco,CA,2.0,0,1,1,0,0,Dark w Street-lights,Clear,Dry,Making Left Turn
+2023,5,Cruise,AV,San Francisco,CA,4.0,0,0,0,0,1,Dark w Street-lights,Raining,Wet,Proceeding Straight
+2023,5,Cruise,AV,San Francisco,CA,9.0,1,0,0,0,1,Daylight,Clear,Dry,Slowing/Stopping
+2023,5,Cruise,AV,San Francisco,CA,17.0,0,0,0,1,0,Daylight,Clear,Dry,Proceeding Straight
+2021,5,Chevrolet,Bolt,San Francisco,CA,15.0,1,0,0,0,0,Daylight,Clear,Dry,Stopped
+2023,5,Cruise,AV,San Francisco,CA,4.0,0,0,0,1,0,Dark w Street-lights,Clear,Dry,Backing
+2023,5,Cruise,AV,San Francisco,CA,21.0,0,1,1,1,0,Dark w Street-lights,Clear,Dry,Proceeding Straight
+2023,6,Cruise,AV,San Francisco,CA,22.0,0,1,0,0,0,Dark w Street-lights,Clear,Dry,Stopped
+2023,6,Cruise,AV,San Francisco,CA,22.0,1,0,0,0,0,Dark w Street-lights,Cloudy,Dry,Stopped
+2023,6,Cruise,AV,San Francisco,CA,9.0,0,0,0,0,1,Daylight,Cloudy,Dry,Proceeding Straight
+2023,6,Cruise,AV,San Francisco,CA,10.0,0,0,0,1,0,Daylight,Cloudy,Dry,Backing
+2023,6,Cruise,AV,San Francisco,CA,23.0,0,0,0,0,0,Dark w Street-lights,Clear,Dry,Proceeding Straight
+2023,6,Cruise,AV,San Francisco,CA,13.0,0,0,1,0,0,Daylight,Clear,Dry,Backing
+2023,7,Cruise,AV,San Francisco,CA,0.0,0,0,0,1,0,Dark w Street-lights,Clear,Dry,Proceeding Straight
+2021,5,Cruise,AV,San Francisco,CA,15.0,0,1,0,0,0,Dark w Street-lights,Clear,Dry,Proceeding Straight
+2023,7,Cruise,AV,San Francisco,CA,1.0,0,1,0,0,0,Dark w Street-lights,Clear,Dry,Proceeding Straight
+2023,7,Cruise,AV,San Francisco,CA,23.0,1,0,0,0,0,Dark w Street-lights,Clear,Dry,Other
+2023,7,Cruise,AV,San Francisco,CA,22.0,1,0,1,0,0,Dark w Street-lights,Clear,Dry,Proceeding Straight
+2023,8,Cruise,AV,San Francisco,CA,10.0,0,1,1,0,0,Daylight,Clear,Dry,Stopped
+2023,8,Cruise,AV,San Francisco,CA,16.0,1,0,0,1,0,Daylight,Clear,Dry,Stopped
+2023,8,Cruise,AV,San Francisco,CA,0.0,0,0,0,1,0,Dark w Street-lights,Clear,Dry,Stopped
+2023,8,Cruise,AV,San Francisco,CA,0.0,1,0,0,1,1,Dark w Street-lights,Clear,Dry,Stopped
+2023,9,Cruise,AV,San Francisco,CA,17.0,0,1,0,1,0,Daylight,Clear,Dry,Stopped
+2023,9,Cruise,AV,San Francisco,CA,9.0,0,1,1,0,0,Daylight,Clear,Dry,Proceeding Straight
+2023,9,Cruise,AV,San Francisco,CA,8.0,0,1,1,0,0,Daylight,Clear,Dry,Proceeding Straight
+2023,10,Cruise,AV,San Francisco,CA,11.0,0,0,0,1,0,Daylight,Clear,Dry,Stopped
+2021,12,Chevrolet,Bolt,San Francisco,CA,17.0,0,1,0,0,0,Dark w Street-lights,Clear,Slippery,Proceeding Straight
+2021,12,Chevrolet,Bolt,San Francisco,CA,16.0,1,0,0,0,0,Daylight,Clear,Dry,Stopped
+2016,1,Nissan,Leaf,San Francisco,CA,13.0,0,0,0,0,0,,,,
+2019,12,Chevrolet,Bolt,San Francisco,CA,7.0,1,0,0,1,0,Daylight,Clear,Dry,Parking Manuever
+2019,12,Chevrolet,Bolt,San Francisco,CA,10.0,0,0,0,0,0,Daylight,Clear,Dry,Proceeding Straight
+2019,12,Chevrolet,Bolt,San Francisco,CA,16.0,0,0,0,0,0,Dusk/Dawn,Clear,Dry,Proceeding Straight
+2019,12,Chevrolet,Bolt,San Francisco,CA,9.0,1,0,0,0,0,Daylight,Clear,Dry,Stopped
+2020,2,Cheverolet,Bolt,San Francisco,CA,8.0,0,0,0,0,0,Daylight,Clear,Dry,Stopped
+2020,2,Chevrolet,Bolt,San Francisco,CA,21.0,1,0,0,0,0,Dark w Street-lights,Clear,Dry,Proceeding Straight
+2020,1,Chevrolet,Bolt,,CA,12.0,0,0,1,0,0,No unusual conditions,Slippery,Other,
+2020,1,Chevrolet,Bolt,San Francisco,CA,8.0,0,1,0,0,0,Daylight,Clear,Dry,Parking
+2020,1,Chevrolet,Bolt,San Francisco,CA,8.0,0,0,0,0,0,Daylight,Clear,Dry,Backing
+2020,1,Chevrolet,Bolt,San Francisco,CA,10.0,0,0,0,0,0,Daylight,Clear,Dry,Proceeding Straight
+2020,1,Chevrolet,Bolt,San Francisco,CA,17.0,0,0,0,0,0,Daylight,Clear,Dry,Making Left Turn
+2020,6,Chevrolet,Bolt,San Francisco,CA,10.0,1,0,0,0,0,Daylight,Clear,Dry,Stopped
+2019,11,Chevrolet,Bolt,San Francisco,CA,0.0,0,0,0,0,0,Dark w Street-lights,Clear,Dry,Parking
+2019,11,Chevrolet,Bolt,San Francisco,CA,9.0,0,1,0,1,0,Daylight,Clear,Dry,Slowing/Stopping
+2019,11,Chevrolet,Bolt,San Francisco,CA,19.0,1,0,0,0,0,Dark w Street-lights,Clear,Dry,Making Right Turn
+2019,11,Chevrolet,Bolt,San Francisco,CA,10.0,1,0,0,0,0,Daylight,Clear,Dry,Proceeding Straight
+2019,11,Chevrolet,Bolt,San Francisco,CA,9.0,1,0,0,0,0,Daylight,Clear,Dry,Slowing/Stopping
+2019,10,Cheverolet,Bolt,San Francisco,CA,1.0,0,0,0,0,0,,,,
+2019,10,Chevrolet,Bolt,San Francisco,CA,11.0,1,0,0,0,0,Daylight,Clear,Dry,Proceeding Straight
+2019,10,Chevrolet,Bolt,San Francisco,CA,13.0,1,0,0,0,0,Daylight,Clear,Dry,Parking Manuever
+2019,10,Chevrolet,Bolt,San Francisco,CA,14.0,0,0,0,0,0,Daylight,Clear,Dry,Proceeding Straight
+2019,10,Chevrolet,Bolt,,CA,19.0,0,0,1,0,0,No unusual conditions,Dark,Proceeding Straight,
+2015,10,Audi,SQ5,Palo Alto,CA,19.0,0,0,0,0,0,,,,
+2018,1,Nissan,NV200 Taxi,San Jose,CA,,0,0,0,0,0,Not Available,Not Available,Not Available,Not Available
+2023,8,Toyota,Camry,Mountain View,CA,14.0,1,0,0,0,0,Daylight,Clear,Dry,Stopped
+2019,4,Chevrolet,Bolt,San Francisco,CA,20.0,0,1,0,1,0,Dark w Street-lights,Clear,Dry,Stopped
+2019,8,Chevrolet,Bolt,San Francisco,CA,23.0,1,0,0,1,1,Dark w Street-lights,Clear,Dry,Slowing/Stopping
+2019,8,Chevrolet,Bolt,San Francisco,CA,13.0,1,0,1,0,0,Daylight,Clear,Dry,Proceeding Straight
+2019,8,Chevrolet,Bolt,San Francisco,CA,21.0,0,0,0,0,0,Dark w Street-lights,Clear,Dry,Slowing/Stopping
+2019,8,Chevrolet,Bolt,San Francisco,CA,14.0,1,0,0,0,0,Daylight,Clear,Dry,Proceeding Straight
+2019,8,Chevrolet,Bolt,San Francisco,CA,10.0,1,0,0,1,1,Daylight,Clear,Dry,Stopped
+2019,2,Chevrolet,Bolt,San Francisco,CA,5.0,1,0,0,0,0,Dark w Street-lights,Raining,Wet,Proceeding Straight
+2019,2,Chevrolet,Bolt,San Francisco,CA,6.0,1,0,0,0,0,Dark w Street-lights,Clear,Dry,Slowing/Stopping
+2019,1,Chevrolet,Bolt,San Francisco,CA,11.0,1,0,1,0,0,Daylight,Clear,Slippery,Proceeding Straight
+2019,1,Chevrolet,Bolt,San Francisco,CA,18.0,0,0,0,1,0,Dark w Street-lights,Clear,Dry,Making Left Turn
+2019,7,Chevrolet,Bolt,San Francisco,CA,21.0,0,0,0,0,0,Dark w Street-lights,Clear,Dry,Proceeding Straight
+2019,7,Chevrolet,Bolt,San Francisco,CA,23.0,0,0,1,0,0,Dark w Street-lights,Clear,Dry,Proceeding Straight
+2019,7,Chevrolet,Bolt,San Francisco,CA,15.0,1,0,1,1,1,Daylight,Clear,Dry,Proceeding Straight
+2019,7,Chevrolet,Bolt,San Francisco,CA,9.0,1,0,0,1,0,Daylight,Clear,Dry,Stopped
+2019,7,Chevrolet,Bolt,San Francisco,CA,20.0,1,0,1,0,1,Dark w Street-lights,Clear,Dry,Proceeding Straight
+2019,7,Chevrolet,Bolt,San Francisco,CA,10.0,1,0,0,1,0,Daylight,Clear,Dry,Stopped
+2019,6,Chevrolet,Bolt,San Francisco,CA,12.0,0,1,1,0,0,Daylight,Clear,Dry,Proceeding Straight
+2019,6,Chevrolet,Bolt,San Francisco,CA,16.0,1,0,0,1,0,Daylight,Clear,Dry,Proceeding Straight
+2019,6,Chevrolet,Bolt,San Francisco,CA,21.0,1,0,1,0,0,Dark w Street-lights,Clear,Dry,Making Left Turn
+2019,6,Chevrolet,Bolt,San Francisco,CA,12.0,1,0,0,0,0,Daylight,Clear,Dry,Proceeding Straight
+2019,6,Chevrolet,Bolt,San Francisco,CA,0.0,1,0,0,1,0,Dark w Street-lights,Clear,Dry,Making Right Turn
+2019,6,Chevrolet,Bolt,San Francisco,CA,21.0,1,0,0,0,0,Dark w Street-lights,Clear,Dry,Making Right Turn
+2019,6,Chevrolet,Bolt,San Francisco,CA,23.0,1,0,0,1,0,Dark w Street-lights,Clear,Dry,Proceeding Straight
+2019,6,Chevrolet,Bolt,San Francisco,CA,9.0,1,0,0,0,0,Daylight,Clear,Dry,Proceeding Straight
+2019,3,Chevrolet,Bolt,San Francisco,CA,5.0,1,0,0,0,0,Dark w Street-lights,Clear,Dry,Proceeding Straight
+2019,3,Chevrolet,Bolt,San Francisco,CA,22.0,0,1,0,1,0,Dark w Street-lights,Clear,Dry,Making Left Turn
+2019,3,Chevrolet,Bolt,San Francisco,CA,1.0,1,0,0,0,0,,,,
+2019,5,Chevrolet,Bolt,San Francisco,CA,0.0,0,1,1,1,1,Dark w Street-lights,Clear,Dry,Proceeding Straight
+2019,5,Chevrolet,Bolt,San Francisco,CA,19.0,0,0,0,0,0,Dusk/Dawn,Cloudy,Wet,Proceeding Straight
+2019,5,Chevrolet,Bolt,San Francisco,CA,23.0,1,0,1,0,0,Dark w Street-lights,Clear,Dry,Stopped
+2019,5,Chevrolet,Bolt,San Francisco,CA,19.0,1,0,0,0,0,Daylight,Clear,Dry,Changing Lanes
+2019,5,Chevrolet,Bolt,San Francisco,CA,8.0,0,0,1,0,0,Dark w Street-lights,Clear,Dry,Making Right Turn
+2019,10,Chevrolet,Bolt,San Francisco,CA,13.0,0,0,0,0,0,Daylight,Clear,Dry,Changing Lanes
+2019,10,Chevrolet,Bolt,San Francisco,CA,16.0,1,0,1,0,0,Daylight,Clear,Dry,Slowing/Stopping
+2019,9,Chevrolet,Bolt,San Francisco,CA,11.0,0,0,1,0,0,Daylight,Clear,Dry,Slowing/Stopping
+2019,9,Chevrolet,Bolt,San Francisco,CA,17.0,0,0,1,0,0,Daylight,Clear,Dry,Proceeding Straight
+2019,9,Chevrolet,Bolt,San Francisco,CA,16.0,0,0,0,0,0,Daylight,Clear,Dry,Stopped
+2018,1,Chevrolet,Bolt,San Francisco,CA,21.0,0,0,0,0,0,Not Available,Not Available,Not Available,Not Available
+2018,1,Chevrolet,Bolt,San Francisco,CA,23.0,0,0,0,0,0,Not Available,Not Available,Not Available,Not Available
+2018,1,Chevrolet,Bolt,San Francisco,CA,22.0,0,0,0,0,0,Not Available,Not Available,Not Available,Not Available
+2017,2,Chevrolet,Bolt,San Francisco,CA,8.0,0,0,0,0,0,,,,
+2018,2,Chevrolet,Bolt,San Francisco,CA,,0,0,0,0,0,Not Available,Not Available,Not Available,Not Available
+2018,2,Chevrolet,Bolt,San Francisco,CA,16.0,0,0,0,0,0,Not Available,Not Available,Not Available,Not Available
+2018,3,Chevrolet,Bolt,San Francisco,CA,15.0,0,0,0,0,0,Not Available,Not Available,Not Available,Not Available
+2018,3,Chevrolet,Bolt,San Francisco,CA,20.0,0,0,0,0,0,Not Available,Not Available,Not Available,Not Available
+2017,3,Chevrolet,Bolt,San Francisco,CA,13.0,0,0,0,0,0,,,,
+2017,3,Chevrolet,Bolt,Not Available,Not Available,10.0,0,0,0,0,0,,,,
+2018,3,Chevrolet,Bolt,San Francisco,CA,12.0,0,0,0,0,0,Not Available,Not Available,Not Available,Not Available
+2018,3,Chevrolet,Bolt,San Francisco,CA,1.0,0,0,0,0,0,Not Available,Not Available,Not Available,Not Available
+2018,3,Chevrolet,Bolt,San Francisco,CA,0.0,0,0,0,0,0,Not Available,Not Available,Not Available,Not Available
+2018,3,Chevrolet,Bolt,San Francisco,CA,11.0,0,0,0,0,0,Not Available,Not Available,Not Available,Not Available
+2018,5,Chevrolet,Bolt,San Francisco,CA,0.0,1,0,0,0,0,Dark w Street-lights,Clear,Dry,Stopped
+2018,5,Chevrolet,Bolt,San Francisco,CA,7.0,1,0,0,0,0,Daylight,Clear,Dry,Making Right Turn
+2018,5,Chevrolet,Bolt,San Francisco,CA,12.0,1,0,0,0,0,Daylight,Clear,Dry,Stopped
+2017,5,Chevrolet,Bolt,San Francisco,CA,17.0,0,0,0,0,0,,,,
+2018,5,Chevrolet,Bolt,San Francisco,CA,18.0,1,0,0,0,0,Daylight,Clear,Dry,Parking Manuerver
+2018,6,Chevrolet,Bolt,San Francisco,CA,20.0,1,0,0,0,0,Daylight,Clear,Dry,Stopped
+2017,6,Chevrolet,Bolt,San Francisco,CA,,0,0,0,0,0,,,,
+2018,6,Chevrolet,Bolt,San Francisco,CA,9.0,1,0,0,0,0,Daylight,Clear,Dry,Proceeding Straight
+2018,6,Chevrolet,Bolt,San Francisco,CA,13.0,0,0,0,0,1,Daylight,Clear,Dry,Proceeding Straight
+2017,6,Chevrolet,Bolt,San Francisco,CA,,0,0,0,0,0,,,,
+2018,6,Chevrolet,Bolt,San Francisco,CA,14.0,1,0,0,0,0,Daylight,Clear,Dry,Proceeding Straight
+2018,7,Chevrolet,Bolt,San Francisco,CA,7.0,1,0,0,0,0,Daylight,Clear,Dry,Making Right Turn
+2017,7,Chevrolet,Bolt,San Francisco,CA,10.0,0,0,0,0,0,,,,
+2018,7,Chevrolet,Bolt,San Francisco,CA,7.0,0,1,0,0,0,Daylight,Clear,Dry,Stopped
+2018,7,Chevrolet,Bolt,San Francisco,CA,14.0,1,0,0,0,0,Daylight,Clear,Dry,Stopped
+2018,7,Chevrolet,Bolt,San Francisco,CA,15.0,0,0,0,1,0,Daylight,Clear,Dry,Stopped
+2018,8,Chevrolet,Bolt,San Francisco,CA,9.0,0,0,0,1,0,Daylight,Clear,Dry,Proceeding Straight
+2018,8,Chevrolet,Bolt,San Francisco,CA,8.0,0,0,0,1,0,Daylight,Fog/Visibility,Dry,Proceeding Straight
+2018,8,Chevrolet,Bolt,San Francisco,CA,18.0,0,0,0,1,0,Daylight,Clear,Dry,Proceeding Straight
+2018,9,Chevrolet,Bolt,San Francisco,CA,18.0,1,0,1,0,0,Daylight,Clear,Dry,Proceeding Straight
+2017,9,Chevrolet,Bolt,San Francisco,CA,16.0,0,0,0,0,0,,,,
+2018,9,Chevrolet,Bolt,San Francisco,CA,13.0,1,0,0,0,0,Daylight,Clear,Dry,Stopped
+2017,9,Chevrolet,Bolt,San Francisco,CA,11.0,0,0,0,0,0,,,,
+2017,9,Chevrolet,Bolt,San Francisco,CA,11.0,0,0,0,0,0,,,,
+2017,9,Chevrolet,Bolt,San Francisco,CA,15.0,0,0,0,0,0,,,,
+2017,9,Chevrolet,Bolt,San Francisco,CA,18.0,0,0,0,0,0,,,,
+2017,9,Chevrolet,Bolt,San Francisco,CA,9.0,0,0,0,0,0,,,,
+2018,9,Chevrolet,Bolt,San Francisco,CA,16.0,0,0,0,1,0,Daylight,Clear,Dry,Parked
+2017,10,Chevrolet,Bolt,San Francisco,CA,2.0,0,0,0,0,0,,,,
+2017,10,Chevrolet,Bolt,San Francisco,CA,7.0,0,0,0,0,0,,,,
+2018,10,Chevrolet,Bolt,San Francisco,CA,12.0,0,1,0,1,0,Daylight,Clear,Dry,Passing Other Vehicle
+2017,10,Chevrolet,Bolt,Not Available,CA,13.0,0,0,0,0,0,,,,
+2017,10,Chevrolet,Bolt,San Francisco,CA,17.0,0,0,0,0,0,,,,
+2017,10,Chevrolet,Bolt,San Francisco,CA,16.0,0,0,0,0,0,,,,
+2017,10,Chevrolet,Bolt,San Francisco,CA,9.0,0,0,0,0,0,,,,
+2017,10,Chevrolet,Bolt,San Francisco,CA,21.0,0,0,0,0,0,,,,
+2018,10,Chevrolet,Bolt,San Francisco,CA,13.0,0,0,0,1,0,Daylight,Clear,Dry,Proceeding Straight
+2018,10,Chevrolet,Bolt,San Francisco,CA,1.0,0,1,0,0,0,Daylight,Clear,Dry,Proceeding Straight
+2018,11,Chevrolet,Bolt,San Francisco,CA,9.0,1,0,0,0,0,Daylight,Clear,Dry,Proceeding Straight
+2017,11,Chevrolet,Bolt,San Francisco,CA,22.0,0,0,0,0,0,,,,
+2018,11,Chevrolet,Bolt,San Francisco,CA,11.0,1,0,0,0,0,Daylight,Clear,Dry,Stopped
+2018,11,Chevrolet,Bolt,San Francisco,CA,22.0,1,0,0,0,0,Daylight,Clear,Dry,Proceeding Straight
+2018,11,Chevrolet,Bolt,San Francisco,CA,9.0,0,1,0,0,0,Daylight,Clear,Dry,Proceeding Straight
+2018,12,Chevrolet,Bolt,San Francisco,CA,9.0,1,0,0,1,0,Daylight,Raining,Wet,Proceeding Straight
+2017,12,Chevrolet,Bolt,San Francisco,CA,9.0,0,0,0,0,0,,,,
+2016,2,Lexus,RX 450h,Mountain View,CA,,0,0,0,0,0,,,,
+2015,2,Lexus,RX 450h,Mountain View,CA,,0,0,0,0,0,,,,
+2017,3,Lexus,RX 450h,Mountain View,CA,16.0,0,0,0,0,0,,,,
+2016,4,Lexus,RX 450h,Mountain View,CA,,0,0,0,0,0,,,,
+2016,4,Lexus,RX 450h,Palo Alto,CA,,0,0,0,0,0,,,,
+2017,4,Lexus,RX 450h,Palo Alto,CA,18.0,0,0,0,0,0,,,,
+2015,4,Lexus,RX 450h,Mountain View,CA,,0,0,0,0,0,,,,
+2016,4,Lexus,RX 450h,Palo Alto,CA,17.0,0,0,0,0,0,,,,
+2016,5,Lexus,RX 450h,Mountain View,CA,21.0,0,0,0,0,0,,,,
+2015,5,Lexus,RX 450h,Mountain View,CA,12.0,0,0,0,0,0,,,,
+2015,6,Lexus,RX 450h,Mountain View,CA,8.0,0,0,0,0,0,,,,
+2015,6,Lexus,RX 450h,Mountain View,CA,11.0,0,0,0,0,0,,,,
+2015,7,Lexus,RX 450h,Mountain View,CA,17.0,0,0,0,0,0,,,,
+2016,7,Google,Self Driving Car,Los Altos,CA,15.0,0,0,0,0,0,,,,
+2016,8,Google,Self Driving Car,Mountain View,CA,,0,0,0,0,0,,,,
+2016,8,Google,Self Driving Car,Not Available,CA,,0,0,0,0,0,,,,
+2015,8,Lexus,RX 450h,Mountain View,CA,9.0,0,0,0,0,0,,,,
+2016,9,Google,Self Driving Car,Mountain View,CA,10.0,0,0,0,0,0,,,,
+2016,9,Google,Self Driving Car,Palo Alto,CA,18.0,0,0,0,0,0,,,,
+2016,9,Google,Self Driving Car,Los Altos,CA,15.0,0,0,0,0,0,,,,
+2016,9,Lexus,RX 450h,Mountain View,CA,11.0,0,0,0,0,0,,,,
+2016,10,Google,Self Driving Car,Los Altos,CA,10.0,0,0,0,0,0,,,,
+2015,11,Lexus,RX 450h,Mountain View,CA,14.0,0,0,0,0,0,,,,
+2016,12,Lexus,RX 450h,Mountain View,CA,11.0,0,0,0,0,0,,,,
+2018,5,Lincoln,MKZ,Sunnyvale,CA,10.0,1,0,0,0,0,Daylight,Clear,Dry,Stopped
+2019,4,Ford,Fusion,San Francisco,CA,11.0,0,1,0,1,0,Daylight,Clear,Dry,Proceeding Straight
+2019,2,Ford,Fusion Hybrid,Mountain View,CA,14.0,1,0,0,0,0,Daylight,Clear,Dry,Stopped
+2019,3,Ford,Fusion,Mountain View,CA,16.0,1,0,0,0,0,Daylight,Clear,Dry,Backing
+2019,3,Ford,Fusion,Palo Alto,CA,8.0,1,0,0,0,0,Daylight,Raining,Wet,Proceeding Straight
+2019,5,Ford,Fusion,Palo Alto,CA,15.0,1,0,0,0,0,Daylight,Clear,Dry,Stopped
+2019,11,Ford,Fusion,Palo Alto,CA,14.0,0,0,0,0,0,Dark w Non-functioning Street-lights,Wind,Slippery,Other
+2023,2,MERCEDES-BENZ,S-CLASS,SANTA FE SPRINGS,CA,8.0,1,0,0,0,0,Daylight,Clear,Dry,Stopped
+2023,2,MERCEDES-BENZ,S580,GARDENA,CA,15.0,1,0,0,0,0,Daylight,Clear,Dry,Proceeding Straight
+2023,5,Mercedes-Benz,S500,Santa Clara,CA,16.0,1,0,0,0,0,Daylight,Clear,Dry,Stopped
+2023,6,S CLASS,MERCEDES-BENZ,LONG BEACH,CA,10.0,1,0,0,0,0,Daylight,Cloudy,Dry,Proceeding Straight
+2023,4,MERCEDES-BENZ,S450 4MATIC,SANTA CLARA,CA,15.0,1,0,0,0,0,Daylight,Wind,Dry,Slowing/Stopping
+2023,8,Mercedes-Benz,S580,Los Angeles,CA,18.0,1,0,0,0,0,Daylight,Clear,Slippery,Stopped
+2016,5,Nissan,Leaf,Sunnyvale,CA,,0,0,0,0,0,,,,
+2023,7,Toyota,Prius,Mountain View,CA,16.0,1,0,0,0,0,Daylight,Clear,Dry,Stopped
+2023,6,Hyundai,Kona EV,Fremont,CA,11.0,1,0,0,0,0,Daylight,Clear,Dry,Stopped
+2023,9,Lincoln,MKZ,Milpitas,CA,17.0,1,0,0,0,0,Daylight,Clear,Dry,Proceeding Straight
+2019,7,Lincoln,MKZ,Milpitas,CA,17.0,0,1,0,0,0,Daylight,Clear,Dry,Stopped
+2019,6,Lincoln,MKZ,Fremont,CA,14.0,0,0,0,0,0,Dark w Non-functioning Street-lights,Wind,Slippery,Other
+2020,5,Hyundai,KONA,Irvine,CA,10.0,1,0,0,0,0,Daylight,Clear,Dry,Stopped
+2018,8,Lexus,LX 600H L,Crockett,CA,11.0,0,1,1,0,0,Daylight,Clear,Dry,Proceeding Straight
+2017,5,Volvo,XC90,San Francisco,CA,10.0,1,0,0,0,0,Daylight,Clear,Dry,Stopped
+2017,5,Volvo,XC91,San Francisco,CA,12.0,1,0,0,0,0,Daylight,Clear,Dry,Stopped
+2017,8,Volvo,XC92,San Francisco,CA,14.0,0,0,0,0,0,,,,
+2022,1,Jaguar,I-Pace,San Francisco,CA,20.0,1,0,0,0,0,Dark w Street-lights,Fog/Visibility,Dry,Slowing/Stopping
+2022,1,Jaguar,I-Pace,San Francisco,CA,14.0,1,0,0,0,0,Daylight,Clear,Dry,Stopped
+2023,1,Jaguar,I-Pace,San Francisco,CA,17.0,1,0,0,0,0,Daylight,Clear,Dry,Proceeding Straight
+2023,2,Jaguar,I-PACE,San Francisco,CA,5.0,0,1,0,0,0,Dark w Street-lights,Clear,Dry,Proceeding Straight
+2023,2,Jaguar,I-Pace,San Francisco,CA,0.0,0,0,0,1,0,Dark w Street-lights,Raining,Wet,Making Left Turn
+2023,2,Jaguar,I-PACE,San Francisco,CA,7.0,0,0,0,1,0,Daylight,Clear,Slippery,Stopped
+2023,2,Jaguar,I-PACE,San Francisco,CA,9.0,0,0,1,0,0,Daylight,Clear,Dry,Entrering Traffic
+2023,3,Jaguar,I-PACE,San Francisco,CA,20.0,0,0,0,0,0,Dark w Street-lights,Clear,Dry,Entrering Traffic
+2023,3,Jaguar,I-Pace,San Francisco,CA,21.0,0,0,0,0,0,Dark w Street-lights,Raining,Wet,Stopped
+2023,3,Jaguar,I-Pace,San Bruno,CA,2.0,0,0,1,0,0,Dark w Street-lights,Clear,Dry,Proceeding Straight
+2023,3,Jaguar,I-Pace,San Francisco,CA,17.0,0,1,0,0,0,Daylight,Clear,Dry,Changing Lanes
+2023,3,Jaguar,I-Pace,Los Angeles,CA,10.0,1,0,0,0,0,Daylight,Cloudy,Dry,Stopped
+2023,3,Jaguar,I-Pace,San Francisco,CA,20.0,0,0,1,0,0,Dark w Street-lights,Clear,Dry,Proceeding Straight
+2023,4,Jaguar,I-Pace,San Francisco,CA,22.0,0,0,0,1,0,Dark w Street-lights,Clear,Dry,Stopped
+2023,4,Jaguar,I-Pace,San Francisco,CA,10.0,1,0,0,0,0,Daylight,Clear,Dry,Stopped
+2018,4,Chrysler,Pacifica,Mountain View,CA,12.0,1,0,0,0,0,Daylight,Clear,Dry,Stopped
+2023,4,Jaguar,I-Pace,San Francisco,CA,10.0,0,0,0,1,0,Daylight,Clear,Dry,Stopped
+2023,4,Jaguar,I-Pace,Santa Monica,CA,17.0,1,0,0,0,0,Daylight,Clear,Dry,Stopped
+2023,4,Jaguar,I-Pace,San Francisco,CA,17.0,0,0,1,0,0,Daylight,Clear,Dry,Stopped
+2023,4,Jaguar,I-Pace,San Francisco,CA,13.0,0,0,0,0,0,Daylight,Clear,Dry,Parking
+2023,5,Jaguar,I-Pace,San Francisco,CA,10.0,1,0,0,0,0,Daylight,Cloudy,Dry,Proceeding Straight
+2023,5,Jaguar,I-Pace,San Francisco,CA,20.0,0,1,0,0,0,Dark w Street-lights,Cloudy,Dry,Other
+2023,5,Jaguar,I-Pace,San Francisco,CA,15.0,0,1,0,0,0,Daylight,Clear,Dry,Stopped
+2023,5,Jaguar,I-Pace,San Francisco,CA,10.0,0,0,0,0,1,Daylight,Cloudy,Dry,Proceeding Straight
+2018,5,Chrysler,Pacifica,Mountain View,CA,15.0,0,0,0,1,0,Daylight,Cloudy,Dry,Stopped
+2023,6,Jaguar,I-Pace,San Francisco,CA,12.0,0,0,1,0,0,Daylight,Clear,Dry,Stopped
+2023,6,Jaguar,I-Pace,San Francisco,CA,14.0,1,0,0,0,0,Daylight,Clear,Dry,Backing
+2023,6,Jaguar,I-Pace,San Francisco,CA,15.0,1,0,0,0,0,Daylight,Cloudy,Dry,Parking
+2018,6,Chrysler,Pacifica,Mountain View,CA,7.0,0,0,0,1,1,Daylight,Clear,Dry,Changing Lanes
+2023,6,Jaguar,I-Pace,San Francisco,CA,17.0,1,0,0,0,0,Daylight,Clear,Dry,Making Left Turn
+2023,6,Jaguar,I-Pace,San Francisco,CA,21.0,1,0,0,0,0,Dark w Street-lights,Clear,Dry,Parking
+2023,6,Jaguar,I-Pace,Los Angeles,CA,23.0,1,1,1,0,0,Dark w Street-lights,Clear,Dry,Stopped
+2023,6,Jaguar,I-Pace,San Francisco,CA,7.0,1,0,0,0,0,Daylight,Cloudy,Dry,Stopped
+2023,7,Jaguar,I-Pace,San Francisco,CA,13.0,0,0,1,0,0,Daylight,Cloudy,Dry,Proceeding Straight
+2023,7,Jaguar,I-Pace,Los Angeles,CA,15.0,0,0,1,0,0,Daylight,Clear,Dry,Making Right Turn
+2018,7,Chrysler,Pacifica,Palo Alto,CA,17.0,1,0,0,0,0,Daylight,Clear,Dry,Stopped
+2023,7,Jaguar,I-Pace,San Francisco,CA,10.0,0,1,0,1,0,Daylight,Clear,Dry,Making Right Turn
+2018,7,Chrysler,Pacifica,Mountain View,CA,16.0,1,0,0,0,0,Daylight,Clear,Dry,Stopped
+2023,7,Jaguar,I-Pace,San Francisco,CA,9.0,0,0,0,0,0,Daylight,Clear,Dry,Stopped
+2023,7,Jaguar,I-Pace,San Francisco,CA,11.0,0,0,0,0,0,Daylight,Clear,Dry,Backing
+2018,7,Chrysler,Pacifica,Sunnyvale,CA,16.0,0,1,0,0,0,Daylight,Clear,Dry,Slowing/Stopping
+2023,7,Jaguar,I-Pace,San Francisco,CA,15.0,0,0,0,1,0,Daylight,Clear,Dry,Entrering Traffic
+2018,7,Chrysler,Pacifica,Mountain View,CA,14.0,1,0,0,0,0,Daylight,Clear,Dry,Slowing/Stopping
+2023,7,Jaguar,I-Pace,Santa Monica,CA,14.0,0,0,1,0,0,Daylight,Clear,Dry,Stopped
+2023,8,Jaguar,I-Pace,San Francisco,CA,22.0,1,0,0,0,0,Dark w Street-lights,Clear,Dry,Stopped
+2018,8,Chrysler,Pacifica,Palo Alto,CA,2.0,1,0,0,0,0,Daylight,Clear,Dry,Stopped
+2018,8,Chrysler,Pacifica,Mountain View,CA,4.0,1,0,0,0,0,Daylight,Clear,Dry,Slowing/Stopping
+2023,8,Jaguar,I-Pace,Los Angeles,CA,19.0,0,1,0,0,0,Dusk/Dawn,Clear,Dry,Slowing/Stopping
+2023,8,Jaguar,I-Pace,San Francisco,CA,21.0,0,1,1,0,0,Dark w Street-lights,Clear,Dry,Proceeding Straight
+2023,8,Jaguar,I-Pace,San Francisco,CA,13.0,0,0,0,1,0,Daylight,Clear,Dry,Proceeding Straight
+2023,8,Jaguar,I-Pace,San Francisco,CA,16.0,1,0,0,0,0,Daylight,Clear,Dry,Stopped
+2018,8,Chrysler,Pacifica,Mountain View,CA,8.0,1,0,0,0,0,Daylight,Clear,Dry,Stopped
+2023,8,Jaguar,I-Pace,San Francisco,CA,17.0,0,0,0,1,0,Daylight,Clear,Dry,Stopped
+2023,8,Jaguar,I-Pace,San Francisco,CA,21.0,0,1,0,1,0,Dark w Street-lights,Clear,Dry,Stopped
+2018,8,Chrysler,Pacifica,Palo Alto,CA,13.0,1,0,0,0,0,Daylight,Clear,Dry,Stopped
+2023,8,Jaguar,I-Pace,Santa Monica,CA,4.0,1,0,0,0,0,Daylight,Clear,Dry,Slowing/Stopping
+2017,8,Chrysler,Pacifica,Palo Alto,CA,8.0,0,0,0,0,0,,,,
+2023,9,Jaguar,I-Pace,Los Angeles,CA,12.0,0,0,0,1,0,Daylight,Clear,Dry,Parking
+2023,9,Jaguar,I-Pace,San Francisco,CA,20.0,1,0,0,0,0,Dark w Street-lights,Clear,Dry,Parking
+2018,9,Chrysler,Pacifica,Mountain View,CA,19.0,1,0,0,0,0,Daylight,Clear,Dry,Stopped
+2018,9,Chrysler,Pacifica,Mountain View,CA,12.0,1,0,0,0,0,Daylight,Clear,Dry,Making Left Turn
+2018,9,Chrysler,Pacifica,Mountain View,CA,16.0,1,0,0,0,0,Daylight,Clear,Dry,Stopped
+2023,9,Jaguar,I-Pace,San Francisco,CA,21.0,1,0,0,0,0,Dark w Street-lights,Clear,Dry,Stopped
+2018,10,Chrysler,Pacifica,Mountain View,CA,21.0,1,0,0,0,0,Dark w Street-lights,Clear,Dry,Stopped
+2018,10,Chrysler,Pacifica,Mountain View,CA,7.0,1,0,1,0,0,Daylight,Clear,Dry,Changing Lanes
+2018,10,Chrysler,Pacifica,Mountain View,CA,14.0,1,0,0,1,0,Daylight,Clear,Dry,Stopped
+2018,11,Chrysler,Pacifica,Palo Alto,CA,11.0,1,0,0,0,0,Daylight,Clear,Dry,Stopped
+2018,11,Chrysler,Pacifica,Mountain View,CA,9.0,0,0,0,1,0,Daylight,Clear,Dry,Proceeding Straight
+2018,11,Chrysler,Pacifica,Palo Alto,CA,16.0,1,0,0,0,0,Dusk/Dawn,Cloudy,Dry,Stopped
+2018,11,Chrysler,Pacifica,Mountain View,CA,12.0,1,0,0,0,0,Daylight,Clear,Dry,"Making Right Turn, Slowing/Stopping"
+2021,11,Jaguar,I-Pace,San Francisco,CA,11.0,1,0,0,0,0,Daylight,Clear,Dry,Stopped
+2018,11,Chrysler,Pacifica,Palo Alto,CA,3.0,1,0,0,0,0,Daylight,Cloudy,Dry,"Stopped, Merging"
+2018,11,Chrysler,Pacifica,Palo Alto,CA,6.0,0,0,1,0,0,Daylight,Clear,Dry,Stopped
+2018,12,Chrysler,Pacifica,Mountain View,CA,10.0,0,0,0,0,0,Daylight,Clear,Dry,Stopped
+2018,12,Chrysler,Pacifica,Palo Alto,CA,9.0,0,0,1,0,0,Daylight,Fog/Visibility,Dry,Proceeding Straight
+2021,12,Jaguar,I-Pace,San Francisco,CA,2.0,0,0,1,0,0,Dark w Street-lights,Cloudy,Dry,Parking Manuever
+2019,8,Chrysler,Pacifica,Mountain View,CA,8.0,1,0,0,0,0,Daylight,Clear,Dry,Proceeding Straight
+2019,8,Chrysler,Pacifica,Palo Alto,CA,16.0,1,0,0,0,0,Daylight,Clear,Dry,Stopped
+2019,12,Chrysler,Pacifica,Mountain View,CA,9.0,1,0,0,0,0,Daylight,Clear,Dry,Stopped
+2019,2,Chrysler,Pacifica,Mountain View,CA,16.0,0,0,0,1,0,Daylight,Clear,Dry,Stopped
+2020,2,Chrysler,Pacifica,Los Angeles,CA,16.0,0,0,1,0,0,Daylight,Clear,Dry,Proceeding Straight
+2020,2,Chrysler,Pacifica,Mountain View,CA,17.0,1,0,0,0,0,Dusk/Dawn,Clear,Dry,Stopped
+2019,2,Chrysler,Pacifica,Los Altos,CA,6.0,1,0,1,1,0,Daylight,Clear,Dry,Stopped
+2020,2,Chrysler,Pacifica,Mountain View,CA,12.0,1,0,0,0,0,Daylight,Clear,Dry,Stopped
+2019,2,Chrysler,Pacifica,Mountain View,CA,9.0,1,0,0,0,0,Daylight,Cloudy,Dry,Stopped
+2019,1,Chrysler,Pacifica,Mountain View,CA,3.0,1,0,0,0,0,Daylight,Clear,Dry,Stopped
+2020,1,Chrysler,Pacifica,Mountain View,CA,23.0,0,0,1,0,0,Daylight,Cloudy,Dry,Making Right Turn
+2020,1,Chrysler,Pacifica,Palo Alto,CA,10.0,1,0,0,0,0,Daylight,Clear,Dry,Stopped
+2019,7,Chrysler,Pacifica,Mountain View,CA,16.0,1,0,0,0,0,Daylight,Clear,Dry,Stopped
+2019,7,Chrysler,Pacifica,Mountain View,CA,15.0,0,0,1,0,0,Daylight,Clear,Dry,Stopped
+2020,6,Chrysler,Pacifica,Palo Alto,CA,13.0,1,0,0,0,0,Daylight,Clear,Dry,Stopped
+2019,6,Chrysler,Pacifica,Palo Alto,CA,11.0,1,0,0,0,0,Daylight,Clear,Dry,Stopped
+2020,3,Chrysler,Pacifica,Mountain View,CA,7.0,1,0,0,0,0,Daylight,Clear,Dry,Proceeding Straight
+2019,3,Chrysler,Pacifica,Palo Alto,CA,9.0,1,0,0,0,0,Daylight,Clear,Dry,Stopped
+2019,5,Chrysler,Pacifica,Mountain View,CA,6.0,1,0,0,0,0,Daylight,Clear,Dry,Stopped
+2019,5,Chrysler,Pacifica,Mountain View,CA,17.0,1,0,0,0,0,Daylight,Cloudy,Dry,Stopped
+2019,5,Chrysler,Pacifica,Palo Alto,CA,16.0,1,0,0,0,0,Daylight,Clear,Dry,Stopped
+2019,11,Chrysler,Pacifica,Palo Alto,CA,18.0,1,0,0,0,0,Dark w Street-lights,Clear,Dry,Stopped
+2019,10,Chrysler,Pacifica,Mountain View,CA,12.0,1,0,0,0,0,Daylight,Clear,Dry,Stopped
+2019,10,Chrysler,Pacifica,Los Altos,CA,21.0,1,0,0,0,0,Dark w Street-lights,Clear,Dry,Stopped
+2019,10,Chrysler,Pacifica,Mountain View,CA,7.0,1,0,0,0,0,Daylight,Clear,Dry,Stopped
+2019,10,Chrysler,Pacifica,Palo Alto,CA,10.0,1,0,0,0,0,Daylight,Clear,Dry,Stopped
+2019,10,Chrysler,Pacifica,Palo Alto,CA,9.0,1,0,0,0,0,Daylight,Clear,Dry,Parking
+2020,9,Chrysler,Pacifica,Los Altos,CA,12.0,0,0,1,0,0,Daylight,Clear,Dry,Stopped
+2019,9,Chrysler,Pacifica,San Francisco,CA,14.0,1,0,0,0,0,Daylight,Clear,Dry,Stopped
+2023,3,NISSAN,LEAF,San Francisco,CA,16.0,1,0,0,0,0,Daylight,Cloudy,Wet,Stopped
+2023,5,NISSAN,LEAF,San Francisco,CA,11.0,1,0,0,0,0,Daylight,Cloudy,Dry,Stopped
+2023,6,Nissan,Leaf,San Jose,CA,14.0,0,1,0,0,0,Daylight,Clear,Dry,Stopped
+2023,8,Nissan,Leaf,San Francisco,CA,13.0,0,1,0,0,0,Daylight,Clear,Dry,Parking
+2023,9,Nissan,Leaf,San Francisco,CA,13.0,1,0,0,0,0,Daylight,Clear,Dry,Stopped
+2023,1,Toyota,Highlander,San Francisco,CA,18.0,1,0,0,0,0,Dark w Street-lights,Clear,Dry,Proceeding Straight
+2018,1,Toyota,Highlander,San Francisco,CA,9.0,0,0,0,0,0,Not Available,Not Available,Not Available,Not Available
+2023,1,Toyota,Highlander,San Francisco,CA,17.0,0,0,0,0,0,Dark w Street-lights,Clear,Dry,Stopped
+2023,2,Toyota,Highlander,San Francisco,CA,14.0,0,1,0,1,0,Daylight,Clear,Slippery,Making Right Turn
+2023,2,Toyota,Highlander,San Francisco,CA,13.0,1,0,0,0,0,Daylight,Clear,Dry,Stopped
+2023,2,Toyota,Highlander,San Francisco,CA,18.0,1,0,0,0,0,Dark w Street-lights,Clear,Dry,Stopped
+2023,2,Toyota,Highlander,San Francisco,CA,15.0,0,0,0,1,0,Daylight,Cloudy,Dry,Making Right Turn
+2023,3,Toyota,Highlander,San Francisco,CA,10.0,0,0,1,0,0,Daylight,Clear,Dry,Making Right Turn
+2023,4,Toyota,Highlander,San Francisco,CA,10.0,0,0,1,0,0,Daylight,Clear,Dry,Other
+2023,4,Toyota,Highlander,San Francisco,CA,11.0,1,0,0,0,0,Daylight,Clear,Dry,Stopped
+2021,5,Toyota,Highlander,San Francisco,CA,17.0,0,0,0,0,0,Daylight,Clear,Dry,Stopped
+2023,5,Toyota,Highlander,San Francisco,CA,11.0,1,0,0,0,0,Daylight,Clear,Dry,Slowing/Stopping
+2022,5,Toyota,Highlander,San Francisco,CA,13.0,1,0,0,0,0,Daylight,Clear,Dry,Stopped
+2023,5,Toyota,Highlander,San Francisco,CA,22.0,0,1,0,0,0,Dark w Street-lights,Raining,Wet,Stopped
+2023,6,Toyota,Highlander,San Francisco,CA,17.0,1,0,0,0,0,Daylight,Clear,Dry,Stopped
+2018,8,Toyota,Highlander,San Francisco,CA,3.0,1,0,0,0,0,Daylight,Clear,Dry,Backing
+2023,8,Toyota,Highlander,San Francisco,CA,8.0,0,0,0,0,0,Daylight,Clear,Dry,Proceeding Straight
+2020,8,Toyota,Highlander,San Francisco,CA,12.0,0,0,0,1,0,Daylight,Clear,Dry,Parking
+2018,9,Chrysler,Pacifica,San Francisco,CA,15.0,0,0,0,0,0,Daylight,Clear,Not Available,Stoppped
+2023,9,Toyota,Highlander,San Francisco,CA,15.0,1,0,0,1,0,Daylight,Clear,Dry,Stopped
+2018,9,Chrysler,Pacifica,San Francisco,CA,9.0,0,0,0,0,0,Daylight,Clear,Not Available,Stopped
+2017,9,Toyota,Highlander,San Francisco,CA,,0,0,0,0,0,,,,
+2018,10,Chrysler,Pacifica,San Francisco,CA,15.0,1,0,0,0,0,Daylight,Clear,Dry,Stopped
+2018,11,Chrysler,Pacifica,San Francisco,CA,22.0,0,0,0,0,0,Daylight,Clear,Dry,Stopped
+2022,11,Toyota,Highlander,San Francisco,CA,13.0,1,0,0,0,0,Daylight,Clear,Dry,Stopped
+2021,12,Toyota,Highlander,San Francisco,CA,10.0,0,0,0,1,0,Daylight,Clear,Dry,Making Left Turn
+2020,2,Toyota,Highlander,San Francisco,CA,9.0,0,0,0,1,0,Daylight,Clear,Dry,Making Left Turn
